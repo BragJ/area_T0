@@ -1,0 +1,12 @@
+file "ADBase_settings.req", P=$(P), R=$(R)
+$(P)$(R)Threshold1
+$(P)$(R)Threshold2
+$(P)$(R)Threshold3
+$(P)$(R)Threshold4
+$(P)$(R)HVValue
+$(P)$(R)HVState
+$(P)$(R)HVMode
+$(P)$(R)SyncInPolarity
+$(P)$(R)SyncOutPolarity
+$(P)$(R)SyncOutFunction
+$(P)$(R)CoolingState

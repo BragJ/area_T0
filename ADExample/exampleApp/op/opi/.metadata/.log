@@ -1,0 +1,45 @@
+!SESSION 2016-10-22 13:06:10.733 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /opt/egcs/epics/modules/areaDetector/ADExample/exampleApp/op/opi -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:06:13.646
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:08:07.519
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 2 2 2016-10-22 13:09:14.155
+!MESSAGE Invalid preference category path: org.csstudio.platform.ui.css.applications.configuration (bundle: org.csstudio.utility.ldap.ui, page: org.csstudio.utility.ldap.preference.PreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2016-10-22 13:09:14.155
+!MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:12:52.053
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:13:46.013
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:25:45.384
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:31:56.341
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+!SESSION 2016-10-22 13:33:20.546 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /opt/egcs/epics/modules/areaDetector/ADExample/exampleApp/op/opi -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2016-10-22 13:33:23.252
+!MESSAGE Conflicting handlers for org.csstudio.diag.epics.pvtree.OpenPVTree: {org.csstudio.diag.epics.pvtree.OpenPVTree} vs {org.csstudio.diag.epics.pvtree.OpenPVTree}
+
+!ENTRY org.eclipse.ui 2 2 2016-10-22 14:46:19.806
+!MESSAGE Invalid preference category path: org.csstudio.platform.ui.css.applications.configuration (bundle: org.csstudio.utility.ldap.ui, page: org.csstudio.utility.ldap.preference.PreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2016-10-22 14:46:19.809
+!MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)

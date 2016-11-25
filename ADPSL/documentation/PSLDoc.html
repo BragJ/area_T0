@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>areaDetector PSL driver</title>
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type" />
+</head>
+<body>
+  <div style="text-align: center">
+    <h1>
+      areaDetector PSL driver</h1>
+    <h2>
+      September 3, 2014</h2>
+    <h2>
+      Mark Rivers</h2>
+    <h2>
+      University of Chicago</h2>
+  </div>
+  <h2>
+    Table of Contents</h2>
+  <ul>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#StandardNotes">Implementation of standard driver parameters</a></li>
+    <li><a href="#Driver_parameters">PSL specific parameters</a></li>
+    <li><a href="#Unsupported">Unsupported standard driver parameters</a></li>
+    <li><a href="#Configuration">Configuration</a></li>
+    <li><a href="#MEDM_screens">MEDM screens</a></li>
+    <li><a href="#Performance_measurements">Performance measurements</a> </li>
+    <li><a href="#Restrictions">Restrictions</a> </li>
+  </ul>
+  <h2 id="Introduction" style="text-align: left">
+    Introduction</h2>
+  <p>
+    This is an <a href="http://www.aps.anl.gov/epics/">EPICS</a> <a href="areaDetector.html">
+      areaDetector</a> driver for the detectors from <a href="http://www.photonic-science.com/">
+        Photonic Science Limited</a> (PSL).
+  </p>
+  <p>
+    The interface to the detector is via a TCP/IP socket interface to the <b>PSLViewer</b>
+    program that PSL provides. Before starting the areaDetector software the following
+    needs to be done:</p>
+  <ul>
+    <li>Run the PSLViewer program</li>
+    <li>Open the Tools/Server control window</li>
+    <li>Select a PORT. The default is 50000. This port must be used in the drvAsynIPPortConfigure
+      command in the areaDetector startup script.</li>
+    <li>Press the Start server button.</li>
+  </ul>
+  <p>
+    This driver inherits from <a href="areaDetectorDoc.html#ADDriver">ADDriver</a>.
+    It implements many of the parameters in <a href="areaDetectorDoxygenHTML/asyn_n_d_array_driver_8h.html">
+      asynNDArrayDriver.h</a> and in <a href="areaDetectorDoxygenHTML/_a_d_driver_8h.html">
+        ADArrayDriver.h</a>. It also implements a number of parameters that are specific
+    to the PSL detectors. The <a href="areaDetectorDoxygenHTML/class_p_s_l.html">PSL class
+      documentation</a> describes this class in detail.</p>
+  <h2 id="StandardNotes" style="text-align: left">
+    Implementation of standard driver parameters</h2>
+  <p>
+    The following table describes how the PSL driver implements some of the standard
+    driver parameters.
+  </p>
+  <table border="1" cellpadding="2" cellspacing="2" style="text-align: left">
+    <tbody>
+      <tr>
+        <td align="center" colspan="3">
+          <b>Implementation of Parameters in asynNDArrayDriver.h and ADDriver.h, and EPICS Record
+            Definitions in ADBase.template and NDFile.template</b> </td>
+      </tr>
+      <tr>
+        <th>
+          Parameter index variable </th>
+        <th>
+          EPICS record name </th>
+        <th>
+          Description </th>
+      </tr>
+      <tr>
+        <td>
+          NDFilePath </td>
+        <td>
+          $(P)$(R)FilePath </td>
+        <td>
+          Controls the path for saving images. It must be a valid path for PSL_server. </td>
+      </tr>
+      <tr>
+        <td>
+          NDFileFormat </td>
+        <td>
+          $(P)$(R)FileFormat </td>
+        <td>
+          The PSL driver supports saving images using the PSL_server in the following formats:
+          <ul>
+            <li>AVI</li>
+            <li>BMP</li>
+            <li>FLF</li>
+            <li>GIF</li>
+            <li>JPEG</li>
+            <li>PCX</li>
+            <li>PNG</li>
+            <li>PNM</li>
+            <li>TIFF</li>
+          </ul>
+          <p>
+            This list of file formats is read from the server, so could change in future releases
+            of the server with no change to the areaDetector software required.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          ADTriggerMode </td>
+        <td>
+          $(P)$(R)TriggerMode </td>
+        <td>
+          The PSL driver supports one or more of the following trigger modes:
+          <ul>
+            <li>FreeRunning</li>
+            <li>Hardware_Falling</li>
+            <li>Hardware_Rising</li>
+            <li>Pipeline_Falling</li>
+            <li>Pipeline_Rising</li>
+            <li>Pipeline_Software</li>
+            <li>Software</li>
+          </ul>
+          The menu of valid trigger modes is read from the server when a camera is opened,
+          because it is camera-specific. </td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="Driver_parameters" style="text-align: left">
+    PSL specific parameters</h2>
+  <p>
+    The PSL driver implements the following parameters in addition to those in asynNDArrayDriver.h
+    and ADDriver.h.
+  </p>
+  <table border="1" cellpadding="2" cellspacing="2" style="text-align: left">
+    <tbody>
+      <tr>
+        <td align="center" colspan="7">
+          <b>Parameter Definitions in PSL.cpp and EPICS Record Definitions in PSL.template</b>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          Parameter index variable </th>
+        <th>
+          asyn interface </th>
+        <th>
+          Access </th>
+        <th>
+          Description </th>
+        <th>
+          drvInfo string </th>
+        <th>
+          EPICS record name </th>
+        <th>
+          EPICS record type </th>
+      </tr>
+      <tr>
+        <td>
+          PSLCameraName </td>
+        <td>
+          asynInt32 </td>
+        <td>
+          r/w </td>
+        <td>
+          Selects the camera to open. </td>
+        <td>
+          PSL_CAMERA_NAME </td>
+        <td>
+          $(P)$(R)CameraName
+          <br />
+          $(P)$(R)CameraName_RBV The menu of valid camera names is read from the server when
+          the areaDetector software starts.</td>
+        <td>
+          mbbo
+          <br />
+          mbbi </td>
+      </tr>
+      <tr>
+        <td>
+          PSLTIFFComment </td>
+        <td>
+          asynOctet </td>
+        <td>
+          r/w </td>
+        <td>
+          Comment string to put in header of TIFF files written by PSL_server. </td>
+        <td>
+          PSL_TIFF_COMMENT </td>
+        <td>
+          $(P)$(R)TIFFComment
+          <br />
+          $(P)$(R)TIFFCommand_RBV </td>
+        <td>
+          waveform
+          <br />
+          waveform </td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="Unsupported">
+    Unsupported standard driver parameters</h2>
+  <p>
+    The PSL driver does not support the following standard driver parameters because
+    they are not supported in the PSL_server program:</p>
+  <ul>
+    <li>Number of exposures per image (ADNumExposures)</li>
+    <li>Gain (ADGain)</li>
+    <li>Capture or stream file saving (NDFileWriteMode, NDFileCapture, NDNumCapture, NDNumCaptured)</li>
+  </ul>
+  <h2 id="Configuration">
+    Configuration</h2>
+  <p>
+    The PSL driver is created with the PSLConfig command, either from C/C++ or from
+    the EPICS IOC shell.</p>
+  <pre>int PSLConfig(const char *portName, const char *serverPort,
+                 int maxBuffers, size_t maxMemory,
+                 int priority, int stackSize)
+  </pre>
+  <p>
+    For details on the meaning of the parameters to this function refer to the detailed
+    documentation on the PSLConfig function in the <a href="areaDetectorDoxygenHTML/_p_s_l_8cpp.html">
+      PSL.cpp documentation</a> and in the documentation for the constructor for the
+    <a href="areaDetectorDoxygenHTML/class_p_s_l.html">PSL class</a>.
+  </p>
+  <p>
+    There an example IOC boot directory and startup script (<a href="psl_st_cmd.html">iocBoot/iocPSL/st.cmd)</a>
+    provided with ASPSL.
+  </p>
+  <h2 id="MEDM_screens" style="text-align: left">
+    MEDM screens</h2>
+  <p>
+    The following show the MEDM screens that are used to control the PSL detector. Note
+    that the general purpose screen ADBase.adl can be used, but it exposes many controls
+    that are not applicable to the PSL, and lacks some fields that are important for
+    the PSL.</p>
+  <p>
+    <code>PSL.adl</code> is the main screen used to control the PSL driver.
+  </p>
+  <div style="text-align: center">
+    <h3 style="text-align: center">
+      PSL.adl</h3>
+    <img alt="PSL.png" src="PSL.png" /></div>
+  <h2 id="Restrictions">
+    Restrictions</h2>
+  <p>
+    The following are some current restrictions of the PSL driver:</p>
+  <ul>
+    <li>PSL has changed the PSLViewer protocol during the time that the areaDetector driver
+      has been used. Starting with R2-1 I have worked with Perceval Guillou at Photonic
+      Science to stabilize the protocol. PSLViewer 4c3 or later must be used with ADPSL
+      R2-1 or later.</li>
+  </ul>
+</body>
+</html>

@@ -1,0 +1,45 @@
+# Database for the records specific to the PSL driver
+# Mark Rivers
+# May 9, 2012
+
+include "ADBase.template"
+include "NDFile.template"
+
+# These are the records from ADBase.template that we modify some fields for
+# We don't modify any here, but the asynEnum interface in the driver will create
+# new values for ADTriggerMode and NDFileFormat
+
+# These are new records for the PSL detector
+
+record(mbbo, "$(P)$(R)CameraName")
+{
+    field(PINI, "YES")
+    field(DTYP, "asynInt32")
+    field(OUT,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))PSL_CAMERA_NAME")
+}
+
+record(mbbi, "$(P)$(R)CameraName_RBV")
+{
+    field(DTYP, "asynInt32")
+    field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))PSL_CAMERA_NAME")
+    field(SCAN, "I/O Intr")
+}
+
+record(waveform, "$(P)$(R)TIFFComment")
+{
+    field(PINI, "YES")
+    field(DTYP, "asynOctetWrite")
+    field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))PSL_TIFF_COMMENT")
+    field(FTVL, "CHAR")
+    field(NELM, "256")
+}
+
+record(waveform, "$(P)$(R)TIFFComment_RBV")
+{
+    field(DTYP, "asynOctetRead")
+    field(INP,  "@asyn($(PORT),$(ADDR),$(TIMEOUT))PSL_TIFF_COMMENT")
+    field(FTVL, "CHAR")
+    field(NELM, "256")
+    field(SCAN, "I/O Intr")
+}
+

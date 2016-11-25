@@ -1,0 +1,5 @@
+# The following definitions must be changed for each site
+
+SUPPORT      = /opt/egcs/epics/modules
+AREA_DETECTOR= $(SUPPORT)/areaDetector
+EPICS_BASE   = /opt/egcs/epics/base

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<components arch="linux-x86">
+	<areaDetector.NDROI ADDR="0" Enabled="1" NDARRAY_ADDR="0" NDARRAY_PORT="$(CAM)" P="$(P)" PORT="$(PORTPREFIX).ROI" QUEUE="$(PLUGINQUEUE=16)" R=":ROI:" TIMEOUT="1"/>
+	<areaDetector.NDProcess ADDR="0" Enabled="1" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).ROI" P="$(P)" PORT="$(PORTPREFIX).PROC" QUEUE="$(PLUGINQUEUE=16)" R=":PROC:" TIMEOUT="1"/>
+	<areaDetector.NDStats ADDR="0" Enabled="1" HIST_SIZE="$(HIST_SIZE=256)" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).PROC" P="$(P)" PORT="$(PORTPREFIX).STAT" QUEUE="$(PLUGINQUEUE=16)" R=":STAT:" TIMEOUT="1" XSIZE="$(XSIZE=1024)" YSIZE="$(YSIZE=768)"/>
+	<areaDetector.NDStdArrays ADDR="0" FTVL="$(ARRFTVL=UCHAR)" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).PROC" NELEMENTS="$(NELEMENTS=786432)" P="$(P)" PORT="$(PORTPREFIX).ARR" QUEUE="$(DISPLAYQUEUE=2)" R=":ARR:" TIMEOUT="1" TYPE="$(ARRTYPE=Int8)"/>
+	<areaDetector.NDFileHDF5 ADDR="0" Enabled="1" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).STAT" P="$(P)" PORT="$(PORTPREFIX).HDF5" QUEUE="$(PLUGINQUEUE=16)" R=":HDF5:" TIMEOUT="1"/>
+	<ffmpegServer.ffmpegFile ADDR="0" Enabled="1" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).STAT" P="$(P)" PORT="$(PORTPREFIX).FIMG" QUEUE="$(PLUGINQUEUE=16)" R=":FIMG:" TIMEOUT="1"/>
+	<areaDetector.NDOverlay ADDR="0" Enabled="1" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).PROC" P="$(P)" PORT="$(PORTPREFIX).OVER" QUEUE="$(PLUGINQUEUE=16)" R=":OVER:" TIMEOUT="1"/>
+	<ffmpegServer.ffmpegStream ADDR="0" HTTP_PORT="$(HTTP_PORT=8080)" NDARRAY_ADDR="0" NDARRAY_PORT="$(PORTPREFIX).OVER" P="$(P)" PORT="$(PORTPREFIX).MJPG" QUEUE="$(DISPLAYQUEUE=2)" R=":MJPG:" TIMEOUT="1"/>
+	<EPICS_BASE.StartupCommand command="dbpf &quot;$(P):FIMG:FileTemplate&quot;, &quot;%s/%s_%d.avi&quot;" post_init="True"/>
+	<EPICS_BASE.StartupCommand command="dbpf &quot;$(P):HDF5:FileTemplate&quot;, &quot;%s/%s_%d.h5&quot;" post_init="True"/>
+	<!--Sync STAT cursor position with grid position-->
+	<records.longout OUT="$(P):STAT:CursorX PP" record="$(P):MJPG:GX"/>
+	<records.longout OUT="$(P):STAT:CursorY PP" record="$(P):MJPG:GY"/>
+	<records.longout DOL="$(P):STAT:CentroidX_RBV CP" record="$(P):OVER:1:PositionXLink"/>
+	<records.longout DOL="$(P):STAT:CentroidY_RBV CP" record="$(P):OVER:1:PositionYLink"/>
+	<records.longout DOL="$(P):STAT:SigmaX_RBV CP" record="$(P):OVER:1:SizeXLink"/>
+	<records.longout DOL="$(P):STAT:SigmaY_RBV CP" record="$(P):OVER:1:SizeYLink"/>
+	<records.longout DRVL="4" VAL="100000" record="$(P):ROI:SizeX"/>
+	<records.longout DRVL="4" VAL="100000" record="$(P):ROI:SizeY"/>
+	<records.longout DRVL="0" VAL="100000" record="$(P):ROI:SizeZ"/>
+	<records.longout VAL="5" record="$(P):PROC:NumFilter"/>
+	<records.longout VAL="255" record="$(P):OVER:1:Green"/>
+	<records.ao VAL="$(CentroidThreshold=50)" record="$(P):STAT:CentroidThreshold"/>
+	<records.bo DOL="$(P):STAT:ComputeCentroid_RBV CP" OMSL="closed_loop" record="$(P):OVER:1:Use"/>
+	<records.bo VAL="0" record="$(P):HDF5:AutoSave"/>
+	<records.bo VAL="$(ComputeProfiles=1)" record="$(P):STAT:ComputeProfiles"/>
+	<records.bo VAL="$(ComputeStatistics=0)" record="$(P):STAT:ComputeStatistics"/>
+	<records.bo VAL="$(ComputeCentroid=0)" record="$(P):STAT:ComputeCentroid"/>
+	<records.mbbo VAL="2" record="$(P):HDF5:FileWriteMode"/>
+	<records.mbbo VAL="0" record="$(P):OVER:1:Shape"/>
+</components>

@@ -1,0 +1,31 @@
+Starting iocInit
+reboot_restore: entry for file 'auto_settings.sav'
+reboot_restore: Found filename 'auto_settings.sav' in restoreFileList.
+*** restoring from './autosave/auto_settings.sav' at initHookState 6 (before record/device init) ***
+reboot_restore: done with file 'auto_settings.sav'
+
+reboot_restore: entry for file 'auto_settings.sav'
+reboot_restore: Found filename 'auto_settings.sav' in restoreFileList.
+*** restoring from './autosave/auto_settings.sav' at initHookState 7 (after record/device init) ***
+reboot_restore: done with file 'auto_settings.sav'
+
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.641 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+iocRun: All initialization complete
+2014/05/28 11:04:35.655 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.655 NDPluginDriver::connectToArrayPort Error calling pasynManager->connectDevice to array port QIMAGE address 0, status=3, error=asynManager:connectDevice port QIMAGE not found
+2014/05/28 11:04:35.655 NDPluginDriver:writeInt32: function=42, value=0, connectedToArrayPort=0

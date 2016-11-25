@@ -1,0 +1,5 @@
+file "ADBase_settings.req", P=$(P), R=$(R)
+$(P)$(R)qReadoutSpeed
+$(P)$(R)qOffset
+$(P)$(R)qImageFormat
+$(P)$(R)qCoolerActive

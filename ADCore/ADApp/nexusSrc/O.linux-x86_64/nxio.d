@@ -1,0 +1,1 @@
+nxio.o: ../nxio.c

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no" ?>
+<hdf5_layout>
+  <group name="NDAttributes" ndattr_default="false"> 
+  <group name="entry">
+    <group name="detector"> 
+      <dataset name="tof_pixel" source="detector" det_default="true"> 
+      </dataset>  
+    </group>  
+  </group> 
+  </group> 
+</hdf5_layout>
+

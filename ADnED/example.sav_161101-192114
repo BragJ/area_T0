@@ -1,0 +1,2195 @@
+# autosave R5.0	Automatically generated - DO NOT MODIFY - 161101-150151
+BL99:Det:N1:Det1:TOF:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:TOF:Mask:0:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:0:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:Min.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:Size.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:TOF:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:TOF:ROI:0:Min.VAL 28000
+BL99:Det:N1:Det1:TOF:ROI:0:Size.VAL 40000
+BL99:Det:N1:Det1:TOF:ROI:1:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:Size.VAL 10000
+BL99:Det:N1:Det1:TOF:ROI:2:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:Size.VAL 800
+BL99:Det:N1:Det1:TOF:ROI:3:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:Size.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:Size.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:Size.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:Size.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:Min.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:Size.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:TOF:XAxis_Bin.VAL 10
+BL99:Det:N1:Det1:TOF:XAxis_End.VAL 40000
+BL99:Det:N1:Det1:TOF:XAxis_Start.VAL 0
+BL99:Det:N1:Det1:XY:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:XY:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:XY:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:XY:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det1:XY:Stat:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:TOF:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:TOF:Mask:0:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:0:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:Min.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:Size.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:TOF:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:TOF:ROI:0:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:0:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:Min.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:Size.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:TOF:XAxis_Bin.VAL 0
+BL99:Det:N1:Det2:TOF:XAxis_End.VAL 0
+BL99:Det:N1:Det2:TOF:XAxis_Start.VAL 0
+BL99:Det:N1:Det2:XY:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:XY:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:XY:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:XY:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det2:XY:Stat:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:TOF:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:TOF:Mask:0:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:0:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:Min.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:Size.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:TOF:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:TOF:ROI:0:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:0:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:Min.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:Size.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:TOF:XAxis_Bin.VAL 0
+BL99:Det:N1:Det3:TOF:XAxis_End.VAL 0
+BL99:Det:N1:Det3:TOF:XAxis_Start.VAL 0
+BL99:Det:N1:Det3:XY:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:XY:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:XY:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:XY:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det3:XY:Stat:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:TOF:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:TOF:Mask:0:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:0:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:Min.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:Size.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:TOF:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:TOF:ROI:0:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:0:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:Min.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:Size.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:TOF:XAxis_Bin.VAL 0
+BL99:Det:N1:Det4:TOF:XAxis_End.VAL 0
+BL99:Det:N1:Det4:TOF:XAxis_Start.VAL 0
+BL99:Det:N1:Det4:XY:Array:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:XY:Mask:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:XY:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:XY:ROI:PoolUsedMem.SCAN 6
+BL99:Det:N1:Det4:XY:Stat:PoolUsedMem.SCAN 6
+BL99:Det:N1:PoolUsedMem.SCAN 6
+BL99:Det:N1:AcquirePeriod.VAL 0
+BL99:Det:N1:AcquireTime.VAL 1
+BL99:Det:N1:Det1:TOF:Array:MinCallbackTime.VAL 1e-05
+BL99:Det:N1:Det1:TOF:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:TOF:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:TOF:Scale.VAL 1
+BL99:Det:N1:Det1:TOFTransFloat0.VAL 0
+BL99:Det:N1:Det1:TOFTransFloat1.VAL 0
+BL99:Det:N1:Det1:TOFTransFloat2.VAL 0
+BL99:Det:N1:Det1:TOFTransFloat3.VAL 0
+BL99:Det:N1:Det1:TOFTransFloat4.VAL 0
+BL99:Det:N1:Det1:TOFTransFloat5.VAL 0
+BL99:Det:N1:Det1:TOFTransOffset.VAL 0
+BL99:Det:N1:Det1:TOFTransScale.VAL 1
+BL99:Det:N1:Det1:XY:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:XY:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:XY:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:XY:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det1:XY:Stat:CentroidThreshold.VAL 1
+BL99:Det:N1:Det1:XY:Stat:HistMax.VAL 255
+BL99:Det:N1:Det1:XY:Stat:HistMin.VAL 0
+BL99:Det:N1:Det1:XY:Stat:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:TOF:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:TOF:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:TOF:Scale.VAL 1
+BL99:Det:N1:Det2:TOFTransFloat0.VAL 0
+BL99:Det:N1:Det2:TOFTransFloat1.VAL 0
+BL99:Det:N1:Det2:TOFTransFloat2.VAL 0
+BL99:Det:N1:Det2:TOFTransFloat3.VAL 0
+BL99:Det:N1:Det2:TOFTransFloat4.VAL 0
+BL99:Det:N1:Det2:TOFTransFloat5.VAL 0
+BL99:Det:N1:Det2:TOFTransOffset.VAL 0
+BL99:Det:N1:Det2:TOFTransScale.VAL 1
+BL99:Det:N1:Det2:XY:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:XY:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:XY:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:XY:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det2:XY:Stat:CentroidThreshold.VAL 1
+BL99:Det:N1:Det2:XY:Stat:HistMax.VAL 255
+BL99:Det:N1:Det2:XY:Stat:HistMin.VAL 0
+BL99:Det:N1:Det2:XY:Stat:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:TOF:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:TOF:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:TOF:Scale.VAL 1
+BL99:Det:N1:Det3:TOFTransFloat0.VAL 0
+BL99:Det:N1:Det3:TOFTransFloat1.VAL 0
+BL99:Det:N1:Det3:TOFTransFloat2.VAL 0
+BL99:Det:N1:Det3:TOFTransFloat3.VAL 0
+BL99:Det:N1:Det3:TOFTransFloat4.VAL 0
+BL99:Det:N1:Det3:TOFTransFloat5.VAL 0
+BL99:Det:N1:Det3:TOFTransOffset.VAL 0
+BL99:Det:N1:Det3:TOFTransScale.VAL 1
+BL99:Det:N1:Det3:XY:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:XY:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:XY:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:XY:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det3:XY:Stat:CentroidThreshold.VAL 1
+BL99:Det:N1:Det3:XY:Stat:HistMax.VAL 255
+BL99:Det:N1:Det3:XY:Stat:HistMin.VAL 0
+BL99:Det:N1:Det3:XY:Stat:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:TOF:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:TOF:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:TOF:Scale.VAL 1
+BL99:Det:N1:Det4:TOFTransFloat0.VAL 0
+BL99:Det:N1:Det4:TOFTransFloat1.VAL 0
+BL99:Det:N1:Det4:TOFTransFloat2.VAL 0
+BL99:Det:N1:Det4:TOFTransFloat3.VAL 0
+BL99:Det:N1:Det4:TOFTransFloat4.VAL 0
+BL99:Det:N1:Det4:TOFTransFloat5.VAL 0
+BL99:Det:N1:Det4:TOFTransOffset.VAL 0
+BL99:Det:N1:Det4:TOFTransScale.VAL 1
+BL99:Det:N1:Det4:XY:Array:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:XY:Mask:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:XY:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:XY:ROI:MinCallbackTime.VAL 0
+BL99:Det:N1:Det4:XY:Stat:CentroidThreshold.VAL 1
+BL99:Det:N1:Det4:XY:Stat:HistMax.VAL 255
+BL99:Det:N1:Det4:XY:Stat:HistMin.VAL 0
+BL99:Det:N1:Det4:XY:Stat:MinCallbackTime.VAL 0
+BL99:Det:N1:EventUpdatePeriod.VAL 100
+BL99:Det:N1:FrameUpdatePeriod.VAL 1000
+BL99:Det:N1:Gain.VAL 1
+BL99:Det:N1:ShutterCloseDelay.VAL 0
+BL99:Det:N1:ShutterOpenDelay.VAL 0
+BL99:Det:N1:Temperature.VAL 25
+BL99:Det:N1:Det1:TOF:XAxis_Auto.VAL 0
+BL99:Det:N1:Det2:TOF:XAxis_Auto.VAL 1
+BL99:Det:N1:Det3:TOF:XAxis_Auto.VAL 1
+BL99:Det:N1:Det4:TOF:XAxis_Auto.VAL 1
+BL99:Det:N1:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det1:PixelMapEnable.VAL 1
+BL99:Det:N1:Det1:PixelROIFilterEnable.VAL 0
+BL99:Det:N1:Det1:TOF:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:AutoSizeX.VAL 0
+BL99:Det:N1:Det1:TOF:AutoSizeY.VAL 0
+BL99:Det:N1:Det1:TOF:AutoSizeZ.VAL 0
+BL99:Det:N1:Det1:TOF:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:EnableScale.VAL 0
+BL99:Det:N1:Det1:TOF:EnableX.VAL 1
+BL99:Det:N1:Det1:TOF:EnableY.VAL 1
+BL99:Det:N1:Det1:TOF:EnableZ.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:0:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:Use.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:2:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:Use.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:ROI:0:Use.VAL 1
+BL99:Det:N1:Det1:TOF:ROI:1:Use.VAL 1
+BL99:Det:N1:Det1:TOF:ROI:2:Use.VAL 1
+BL99:Det:N1:Det1:TOF:ROI:3:Use.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:Use.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:Use.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:Use.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:Use.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:TOF:ReverseX.VAL 0
+BL99:Det:N1:Det1:TOF:ReverseY.VAL 0
+BL99:Det:N1:Det1:TOF:ReverseZ.VAL 0
+BL99:Det:N1:Det1:TOFROIFilterEnable.VAL 0
+BL99:Det:N1:Det1:XY:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:XY:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:XY:Mask:0:Use.VAL 0
+BL99:Det:N1:Det1:XY:Mask:1:Use.VAL 1
+BL99:Det:N1:Det1:XY:Mask:2:Use.VAL 1
+BL99:Det:N1:Det1:XY:Mask:3:Use.VAL 1
+BL99:Det:N1:Det1:XY:Mask:4:Use.VAL 1
+BL99:Det:N1:Det1:XY:Mask:5:Use.VAL 0
+BL99:Det:N1:Det1:XY:Mask:6:Use.VAL 0
+BL99:Det:N1:Det1:XY:Mask:7:Use.VAL 0
+BL99:Det:N1:Det1:XY:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det1:XY:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:XY:ROI:0:Use.VAL 0
+BL99:Det:N1:Det1:XY:ROI:1:Use.VAL 1
+BL99:Det:N1:Det1:XY:ROI:2:Use.VAL 1
+BL99:Det:N1:Det1:XY:ROI:3:Use.VAL 1
+BL99:Det:N1:Det1:XY:ROI:4:Use.VAL 1
+BL99:Det:N1:Det1:XY:ROI:5:Use.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:Use.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:Use.VAL 0
+BL99:Det:N1:Det1:XY:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det1:XY:Stat:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:Stat:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det1:XY:Stat:ComputeCentroid.VAL 1
+BL99:Det:N1:Det1:XY:Stat:ComputeHistogram.VAL 0
+BL99:Det:N1:Det1:XY:Stat:ComputeProfiles.VAL 1
+BL99:Det:N1:Det1:XY:Stat:ComputeStatistics.VAL 1
+BL99:Det:N1:Det1:XY:Stat:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:PixelMapEnable.VAL 0
+BL99:Det:N1:Det2:PixelROIFilterEnable.VAL 1
+BL99:Det:N1:Det2:TOF:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:AutoSizeX.VAL 0
+BL99:Det:N1:Det2:TOF:AutoSizeY.VAL 0
+BL99:Det:N1:Det2:TOF:AutoSizeZ.VAL 0
+BL99:Det:N1:Det2:TOF:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:EnableScale.VAL 0
+BL99:Det:N1:Det2:TOF:EnableX.VAL 1
+BL99:Det:N1:Det2:TOF:EnableY.VAL 1
+BL99:Det:N1:Det2:TOF:EnableZ.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:0:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:Use.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:ROI:0:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:Use.VAL 1
+BL99:Det:N1:Det2:TOF:ROI:2:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:Use.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:TOF:ReverseX.VAL 0
+BL99:Det:N1:Det2:TOF:ReverseY.VAL 0
+BL99:Det:N1:Det2:TOF:ReverseZ.VAL 0
+BL99:Det:N1:Det2:TOFROIFilterEnable.VAL 0
+BL99:Det:N1:Det2:XY:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:XY:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:XY:Mask:0:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:1:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:2:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:3:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:4:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:5:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:6:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:7:Use.VAL 0
+BL99:Det:N1:Det2:XY:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det2:XY:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:XY:ROI:0:Use.VAL 1
+BL99:Det:N1:Det2:XY:ROI:1:Use.VAL 1
+BL99:Det:N1:Det2:XY:ROI:2:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:Use.VAL 0
+BL99:Det:N1:Det2:XY:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det2:XY:Stat:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:Stat:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det2:XY:Stat:ComputeCentroid.VAL 1
+BL99:Det:N1:Det2:XY:Stat:ComputeHistogram.VAL 0
+BL99:Det:N1:Det2:XY:Stat:ComputeProfiles.VAL 1
+BL99:Det:N1:Det2:XY:Stat:ComputeStatistics.VAL 1
+BL99:Det:N1:Det2:XY:Stat:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:PixelMapEnable.VAL 0
+BL99:Det:N1:Det3:PixelROIFilterEnable.VAL 0
+BL99:Det:N1:Det3:TOF:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:Array:EnableCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det3:TOF:AutoSizeX.VAL 0
+BL99:Det:N1:Det3:TOF:AutoSizeY.VAL 0
+BL99:Det:N1:Det3:TOF:AutoSizeZ.VAL 0
+BL99:Det:N1:Det3:TOF:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:EnableCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:EnableScale.VAL 0
+BL99:Det:N1:Det3:TOF:EnableX.VAL 1
+BL99:Det:N1:Det3:TOF:EnableY.VAL 1
+BL99:Det:N1:Det3:TOF:EnableZ.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:0:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:Use.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:TOF:ROI:0:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:Use.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:EnableCallbacks.VAL 0
+BL99:Det:N1:Det3:TOF:ReverseX.VAL 0
+BL99:Det:N1:Det3:TOF:ReverseY.VAL 0
+BL99:Det:N1:Det3:TOF:ReverseZ.VAL 0
+BL99:Det:N1:Det3:TOFROIFilterEnable.VAL 0
+BL99:Det:N1:Det3:XY:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:XY:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:XY:Mask:0:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:1:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:2:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:3:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:4:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:5:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:6:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:7:Use.VAL 0
+BL99:Det:N1:Det3:XY:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det3:XY:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:XY:ROI:0:Use.VAL 1
+BL99:Det:N1:Det3:XY:ROI:1:Use.VAL 1
+BL99:Det:N1:Det3:XY:ROI:2:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:Use.VAL 0
+BL99:Det:N1:Det3:XY:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det3:XY:Stat:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:Stat:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det3:XY:Stat:ComputeCentroid.VAL 1
+BL99:Det:N1:Det3:XY:Stat:ComputeHistogram.VAL 0
+BL99:Det:N1:Det3:XY:Stat:ComputeProfiles.VAL 1
+BL99:Det:N1:Det3:XY:Stat:ComputeStatistics.VAL 1
+BL99:Det:N1:Det3:XY:Stat:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:PixelMapEnable.VAL 0
+BL99:Det:N1:Det4:PixelROIFilterEnable.VAL 0
+BL99:Det:N1:Det4:TOF:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:Array:EnableCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det4:TOF:AutoSizeX.VAL 0
+BL99:Det:N1:Det4:TOF:AutoSizeY.VAL 0
+BL99:Det:N1:Det4:TOF:AutoSizeZ.VAL 0
+BL99:Det:N1:Det4:TOF:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:EnableCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:EnableScale.VAL 0
+BL99:Det:N1:Det4:TOF:EnableX.VAL 1
+BL99:Det:N1:Det4:TOF:EnableY.VAL 1
+BL99:Det:N1:Det4:TOF:EnableZ.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:0:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:Use.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:TOF:ROI:0:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:Use.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:EnableCallbacks.VAL 0
+BL99:Det:N1:Det4:TOF:ReverseX.VAL 0
+BL99:Det:N1:Det4:TOF:ReverseY.VAL 0
+BL99:Det:N1:Det4:TOF:ReverseZ.VAL 0
+BL99:Det:N1:Det4:TOFROIFilterEnable.VAL 0
+BL99:Det:N1:Det4:XY:Array:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:Array:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:Array:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:XY:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:XY:Mask:0:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:1:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:2:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:3:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:4:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:5:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:6:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:7:Use.VAL 0
+BL99:Det:N1:Det4:XY:Mask:ArrayCallbacks.VAL 1
+BL99:Det:N1:Det4:XY:Mask:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:Mask:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:XY:ROI:0:Use.VAL 1
+BL99:Det:N1:Det4:XY:ROI:1:Use.VAL 1
+BL99:Det:N1:Det4:XY:ROI:2:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:Use.VAL 0
+BL99:Det:N1:Det4:XY:ROI:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:ROI:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:ROI:EnableCallbacks.VAL 1
+BL99:Det:N1:Det4:XY:Stat:ArrayCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:Stat:BlockingCallbacks.VAL 0
+BL99:Det:N1:Det4:XY:Stat:ComputeCentroid.VAL 1
+BL99:Det:N1:Det4:XY:Stat:ComputeHistogram.VAL 0
+BL99:Det:N1:Det4:XY:Stat:ComputeProfiles.VAL 1
+BL99:Det:N1:Det4:XY:Stat:ComputeStatistics.VAL 1
+BL99:Det:N1:Det4:XY:Stat:EnableCallbacks.VAL 1
+BL99:Det:N1:ReadStatus.SCAN 0
+BL99:Det:N1:ReverseX.VAL 0
+BL99:Det:N1:ReverseY.VAL 0
+BL99:Det:N1:PChargeIntegrated_pC.EGU pC
+BL99:Det:N1:PChargeIntegrated_pC.CALC A*1e12
+BL99:Det:N1:ShutterCloseEPICS.OUT 
+BL99:Det:N1:ShutterCloseEPICS.OCAL 0
+BL99:Det:N1:ShutterOpenEPICS.OUT 
+BL99:Det:N1:ShutterOpenEPICS.OCAL 1
+BL99:Det:N1:Det1:TOF:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:TOF:XAxis_Size.VAL 4000
+BL99:Det:N1:Det1:XY:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:TOF:XAxis_Size.VAL 160000
+BL99:Det:N1:Det2:XY:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:TOF:XAxis_Size.VAL 160000
+BL99:Det:N1:Det3:XY:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:TOF:XAxis_Size.VAL 160000
+BL99:Det:N1:Det4:XY:ROI:0:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:1:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:BgdWidth_RBV.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:BgdWidth_RBV.VAL 0
+BL99:Det:N1:BinX.VAL 1
+BL99:Det:N1:BinY.VAL 1
+BL99:Det:N1:Det1:PixelNumEnd.VAL 1023
+BL99:Det:N1:Det1:PixelNumSize.VAL 1024
+BL99:Det:N1:Det1:PixelNumStart.VAL 0
+BL99:Det:N1:Det1:PixelROIFilterSizeX.VAL 32
+BL99:Det:N1:Det1:PixelROIFilterSizeY.VAL 30
+BL99:Det:N1:Det1:PixelROIFilterStartX.VAL 0
+BL99:Det:N1:Det1:PixelROIFilterStartY.VAL 0
+BL99:Det:N1:Det1:PixelSizeX.VAL 32
+BL99:Det:N1:Det1:TOF:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:TOF:BinX.VAL 10
+BL99:Det:N1:Det1:TOF:BinY.VAL 1
+BL99:Det:N1:Det1:TOF:BinZ.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:0:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:0:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:0:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:0:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:0:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:1:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:1:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:1:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:2:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:2:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:2:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:3:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:3:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:3:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:4:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:4:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:4:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:5:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:5:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:5:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:6:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:6:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:6:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:PosX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:7:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:SizeXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det1:TOF:Mask:7:SizeYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:TOF:Mask:7:Value.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:TOF:MinX.VAL 1024
+BL99:Det:N1:Det1:TOF:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:MinZ.VAL 0
+BL99:Det:N1:Det1:TOF:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:0:MinX.VAL 2800
+BL99:Det:N1:Det1:TOF:ROI:0:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:0:SizeX.VAL 4000
+BL99:Det:N1:Det1:TOF:ROI:0:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:1:SizeX.VAL 1000
+BL99:Det:N1:Det1:TOF:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:2:SizeX.VAL 80
+BL99:Det:N1:Det1:TOF:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:MinX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:SizeX.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:TSNumPoints.VAL 2048
+BL99:Det:N1:Det1:TOF:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det1:TOF:SizeX.VAL 160000
+BL99:Det:N1:Det1:TOF:SizeY.VAL 1000000
+BL99:Det:N1:Det1:TOF:SizeZ.VAL 1000000
+BL99:Det:N1:Det1:TOFNumBins.VAL 4000
+BL99:Det:N1:Det1:TOFROIFilterSize.VAL 10000
+BL99:Det:N1:Det1:TOFROIFilterStart.VAL 0
+BL99:Det:N1:Det1:TOFTransInt0.VAL 0
+BL99:Det:N1:Det1:TOFTransInt1.VAL 0
+BL99:Det:N1:Det1:TOFTransInt2.VAL 0
+BL99:Det:N1:Det1:TOFTransInt3.VAL 0
+BL99:Det:N1:Det1:TOFTransInt4.VAL 0
+BL99:Det:N1:Det1:TOFTransInt5.VAL 0
+BL99:Det:N1:Det1:XY:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:XY:Mask:0:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:0:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:0:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:0:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:1:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:1:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:1:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:1:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:2:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:2:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:2:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:2:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:3:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:3:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:3:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:3:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:4:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:4:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:4:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:4:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:5:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:5:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:5:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:5:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:6:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:6:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:6:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:6:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:7:PosX.VAL 0
+BL99:Det:N1:Det1:XY:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det1:XY:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det1:XY:Mask:7:SizeX.VAL 1
+BL99:Det:N1:Det1:XY:Mask:7:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det1:XY:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det1:XY:Mask:7:Value.VAL 0
+BL99:Det:N1:Det1:XY:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:XY:Min0.VAL 0
+BL99:Det:N1:Det1:XY:Min1.VAL 0
+BL99:Det:N1:Det1:XY:Min2.VAL 0
+BL99:Det:N1:Det1:XY:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:XY:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:0:MinX.VAL 5
+BL99:Det:N1:Det1:XY:ROI:0:MinY.VAL 5
+BL99:Det:N1:Det1:XY:ROI:0:SizeX.VAL 5
+BL99:Det:N1:Det1:XY:ROI:0:SizeY.VAL 5
+BL99:Det:N1:Det1:XY:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:1:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:1:SizeX.VAL 32
+BL99:Det:N1:Det1:XY:ROI:1:SizeY.VAL 30
+BL99:Det:N1:Det1:XY:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:2:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:2:SizeX.VAL 20
+BL99:Det:N1:Det1:XY:ROI:2:SizeY.VAL 20
+BL99:Det:N1:Det1:XY:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:3:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:3:SizeX.VAL 10
+BL99:Det:N1:Det1:XY:ROI:3:SizeY.VAL 10
+BL99:Det:N1:Det1:XY:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:4:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:4:SizeX.VAL 5
+BL99:Det:N1:Det1:XY:ROI:4:SizeY.VAL 5
+BL99:Det:N1:Det1:XY:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:5:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:5:SizeX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:SizeX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:MinX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:SizeX.VAL 0
+BL99:Det:N1:Det1:XY:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det1:XY:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:XY:ROI:TSNumPoints.VAL 2048
+BL99:Det:N1:Det1:XY:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det1:XY:Scale:ManualMax.VAL 1000000
+BL99:Det:N1:Det1:XY:Scale:Offset.VAL 0
+BL99:Det:N1:Det1:XY:Scale:Scale.VAL 1
+BL99:Det:N1:Det1:XY:Scale:SlideMax.VAL 2353
+BL99:Det:N1:Det1:XY:Size0.VAL 1024
+BL99:Det:N1:Det1:XY:Size1.VAL 32
+BL99:Det:N1:Det1:XY:Size2.VAL 32
+BL99:Det:N1:Det1:XY:Stat:BgdWidth.VAL 1
+BL99:Det:N1:Det1:XY:Stat:CursorX.VAL 10
+BL99:Det:N1:Det1:XY:Stat:CursorY.VAL 10
+BL99:Det:N1:Det1:XY:Stat:HistSize.VAL 256
+BL99:Det:N1:Det1:XY:Stat:NDArrayAddress.VAL 0
+BL99:Det:N1:Det1:XY:Stat:TSNumPoints.VAL 1024
+BL99:Det:N1:Det1:XY:Stat:TSRead.SCAN 6
+BL99:Det:N1:Det2:PixelNumEnd.VAL 1023
+BL99:Det:N1:Det2:PixelNumSize.VAL 1024
+BL99:Det:N1:Det2:PixelNumStart.VAL 0
+BL99:Det:N1:Det2:PixelROIFilterSizeX.VAL 1
+BL99:Det:N1:Det2:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det2:PixelROIFilterStartX.VAL 0
+BL99:Det:N1:Det2:PixelROIFilterStartY.VAL 0
+BL99:Det:N1:Det2:PixelSizeX.VAL 32
+BL99:Det:N1:Det2:TOF:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:TOF:BinX.VAL 1
+BL99:Det:N1:Det2:TOF:BinY.VAL 1
+BL99:Det:N1:Det2:TOF:BinZ.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:0:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:0:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:0:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:1:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:1:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:2:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:2:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:3:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:3:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:4:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:4:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:5:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:5:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:6:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:6:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:PosX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:TOF:Mask:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:Mask:7:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det2:TOF:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:TOF:Mask:7:Value.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:TOF:MinX.VAL 0
+BL99:Det:N1:Det2:TOF:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:MinZ.VAL 0
+BL99:Det:N1:Det2:TOF:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:0:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:0:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:0:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:MinX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det2:TOF:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det2:TOF:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det2:TOF:SizeX.VAL 160000
+BL99:Det:N1:Det2:TOF:SizeY.VAL 1000000
+BL99:Det:N1:Det2:TOF:SizeZ.VAL 1000000
+BL99:Det:N1:Det2:TOFNumBins.VAL 1
+BL99:Det:N1:Det2:TOFROIFilterSize.VAL 1
+BL99:Det:N1:Det2:TOFROIFilterStart.VAL 159999
+BL99:Det:N1:Det2:TOFTransInt0.VAL 0
+BL99:Det:N1:Det2:TOFTransInt1.VAL 0
+BL99:Det:N1:Det2:TOFTransInt2.VAL 0
+BL99:Det:N1:Det2:TOFTransInt3.VAL 0
+BL99:Det:N1:Det2:TOFTransInt4.VAL 0
+BL99:Det:N1:Det2:TOFTransInt5.VAL 0
+BL99:Det:N1:Det2:XY:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:XY:Mask:0:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:0:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:0:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:0:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:1:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:1:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:1:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:1:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:2:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:2:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:2:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:2:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:3:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:3:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:3:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:3:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:4:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:4:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:4:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:4:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:5:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:5:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:5:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:5:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:6:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:6:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:6:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:6:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:7:PosX.VAL 0
+BL99:Det:N1:Det2:XY:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det2:XY:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det2:XY:Mask:7:SizeX.VAL 1
+BL99:Det:N1:Det2:XY:Mask:7:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det2:XY:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det2:XY:Mask:7:Value.VAL 0
+BL99:Det:N1:Det2:XY:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:XY:Min0.VAL 0
+BL99:Det:N1:Det2:XY:Min1.VAL 0
+BL99:Det:N1:Det2:XY:Min2.VAL 0
+BL99:Det:N1:Det2:XY:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:XY:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:0:MinX.VAL 5
+BL99:Det:N1:Det2:XY:ROI:0:MinY.VAL 5
+BL99:Det:N1:Det2:XY:ROI:0:SizeX.VAL 5
+BL99:Det:N1:Det2:XY:ROI:0:SizeY.VAL 5
+BL99:Det:N1:Det2:XY:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:1:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:1:SizeX.VAL 32
+BL99:Det:N1:Det2:XY:ROI:1:SizeY.VAL 32
+BL99:Det:N1:Det2:XY:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:2:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:2:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:MinX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:SizeX.VAL 0
+BL99:Det:N1:Det2:XY:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det2:XY:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:XY:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det2:XY:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det2:XY:Scale:ManualMax.VAL 4092
+BL99:Det:N1:Det2:XY:Scale:Offset.VAL 0
+BL99:Det:N1:Det2:XY:Scale:Scale.VAL 1
+BL99:Det:N1:Det2:XY:Scale:SlideMax.VAL 4092
+BL99:Det:N1:Det2:XY:Size0.VAL 1
+BL99:Det:N1:Det2:XY:Size1.VAL 32
+BL99:Det:N1:Det2:XY:Size2.VAL 32
+BL99:Det:N1:Det2:XY:Stat:BgdWidth.VAL 1
+BL99:Det:N1:Det2:XY:Stat:CursorX.VAL 256
+BL99:Det:N1:Det2:XY:Stat:CursorY.VAL 256
+BL99:Det:N1:Det2:XY:Stat:HistSize.VAL 256
+BL99:Det:N1:Det2:XY:Stat:NDArrayAddress.VAL 0
+BL99:Det:N1:Det2:XY:Stat:TSNumPoints.VAL 1024
+BL99:Det:N1:Det2:XY:Stat:TSRead.SCAN 6
+BL99:Det:N1:Det3:PixelNumEnd.VAL 1023
+BL99:Det:N1:Det3:PixelNumSize.VAL 5120
+BL99:Det:N1:Det3:PixelNumStart.VAL 0
+BL99:Det:N1:Det3:PixelROIFilterSizeX.VAL 1
+BL99:Det:N1:Det3:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det3:PixelROIFilterStartX.VAL 0
+BL99:Det:N1:Det3:PixelROIFilterStartY.VAL 0
+BL99:Det:N1:Det3:PixelSizeX.VAL 32
+BL99:Det:N1:Det3:TOF:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:TOF:BinX.VAL 1
+BL99:Det:N1:Det3:TOF:BinY.VAL 1
+BL99:Det:N1:Det3:TOF:BinZ.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:0:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:0:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:0:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:1:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:1:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:2:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:2:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:3:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:3:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:4:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:4:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:5:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:5:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:6:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:6:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:PosX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:TOF:Mask:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:Mask:7:SizeXLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det3:TOF:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:TOF:Mask:7:Value.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:TOF:MinX.VAL 0
+BL99:Det:N1:Det3:TOF:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:MinZ.VAL 0
+BL99:Det:N1:Det3:TOF:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:0:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:0:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:0:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:MinX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det3:TOF:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det3:TOF:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det3:TOF:SizeX.VAL 160000
+BL99:Det:N1:Det3:TOF:SizeY.VAL 1000000
+BL99:Det:N1:Det3:TOF:SizeZ.VAL 1000000
+BL99:Det:N1:Det3:TOFNumBins.VAL 160
+BL99:Det:N1:Det3:TOFROIFilterSize.VAL -2147483648
+BL99:Det:N1:Det3:TOFROIFilterStart.VAL -2147483648
+BL99:Det:N1:Det3:TOFTransInt0.VAL 0
+BL99:Det:N1:Det3:TOFTransInt1.VAL 0
+BL99:Det:N1:Det3:TOFTransInt2.VAL 0
+BL99:Det:N1:Det3:TOFTransInt3.VAL 0
+BL99:Det:N1:Det3:TOFTransInt4.VAL 0
+BL99:Det:N1:Det3:TOFTransInt5.VAL 0
+BL99:Det:N1:Det3:XY:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:XY:Mask:0:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:0:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:0:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:0:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:1:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:1:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:1:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:1:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:2:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:2:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:2:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:2:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:3:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:3:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:3:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:3:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:4:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:4:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:4:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:4:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:5:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:5:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:5:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:5:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:6:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:6:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:6:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:6:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:7:PosX.VAL 0
+BL99:Det:N1:Det3:XY:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det3:XY:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det3:XY:Mask:7:SizeX.VAL 1
+BL99:Det:N1:Det3:XY:Mask:7:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det3:XY:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det3:XY:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det3:XY:Mask:7:Value.VAL 0
+BL99:Det:N1:Det3:XY:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:XY:Min0.VAL 0
+BL99:Det:N1:Det3:XY:Min1.VAL 0
+BL99:Det:N1:Det3:XY:Min2.VAL 0
+BL99:Det:N1:Det3:XY:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:XY:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:0:MinX.VAL 5
+BL99:Det:N1:Det3:XY:ROI:0:MinY.VAL 5
+BL99:Det:N1:Det3:XY:ROI:0:SizeX.VAL 5
+BL99:Det:N1:Det3:XY:ROI:0:SizeY.VAL 5
+BL99:Det:N1:Det3:XY:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:1:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:1:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:MinX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:SizeX.VAL 0
+BL99:Det:N1:Det3:XY:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det3:XY:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:XY:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det3:XY:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det3:XY:Scale:ManualMax.VAL 4092
+BL99:Det:N1:Det3:XY:Scale:Offset.VAL 0
+BL99:Det:N1:Det3:XY:Scale:Scale.VAL 1
+BL99:Det:N1:Det3:XY:Scale:SlideMax.VAL 4092
+BL99:Det:N1:Det3:XY:Size0.VAL 1
+BL99:Det:N1:Det3:XY:Size1.VAL 160
+BL99:Det:N1:Det3:XY:Size2.VAL 32
+BL99:Det:N1:Det3:XY:Stat:BgdWidth.VAL 1
+BL99:Det:N1:Det3:XY:Stat:CursorX.VAL 256
+BL99:Det:N1:Det3:XY:Stat:CursorY.VAL 256
+BL99:Det:N1:Det3:XY:Stat:HistSize.VAL 256
+BL99:Det:N1:Det3:XY:Stat:NDArrayAddress.VAL 0
+BL99:Det:N1:Det3:XY:Stat:TSNumPoints.VAL 1024
+BL99:Det:N1:Det3:XY:Stat:TSRead.SCAN 6
+BL99:Det:N1:Det4:PixelNumEnd.VAL 1023
+BL99:Det:N1:Det4:PixelNumSize.VAL 163840
+BL99:Det:N1:Det4:PixelNumStart.VAL 0
+BL99:Det:N1:Det4:PixelROIFilterSizeX.VAL 1
+BL99:Det:N1:Det4:PixelROIFilterSizeY.VAL 1
+BL99:Det:N1:Det4:PixelROIFilterStartX.VAL 0
+BL99:Det:N1:Det4:PixelROIFilterStartY.VAL 0
+BL99:Det:N1:Det4:PixelSizeX.VAL 32
+BL99:Det:N1:Det4:TOF:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:TOF:BinX.VAL 1
+BL99:Det:N1:Det4:TOF:BinY.VAL 1
+BL99:Det:N1:Det4:TOF:BinZ.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:0:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:0:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:0:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:1:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:1:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:2:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:2:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:3:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:3:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:4:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:4:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:5:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:5:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:6:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:6:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:PosX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:TOF:Mask:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:Mask:7:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:TOF:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det4:TOF:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:TOF:Mask:7:Value.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:TOF:MinX.VAL 0
+BL99:Det:N1:Det4:TOF:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:MinZ.VAL 0
+BL99:Det:N1:Det4:TOF:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:0:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:0:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:0:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:0:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:1:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:2:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:3:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:4:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:5:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:6:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:MinX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:7:SizeX.VAL -2147483648
+BL99:Det:N1:Det4:TOF:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det4:TOF:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det4:TOF:SizeX.VAL 160000
+BL99:Det:N1:Det4:TOF:SizeY.VAL 1000000
+BL99:Det:N1:Det4:TOF:SizeZ.VAL 1000000
+BL99:Det:N1:Det4:TOFNumBins.VAL 160
+BL99:Det:N1:Det4:TOFROIFilterSize.VAL -2147483648
+BL99:Det:N1:Det4:TOFROIFilterStart.VAL -2147483648
+BL99:Det:N1:Det4:TOFTransInt0.VAL 0
+BL99:Det:N1:Det4:TOFTransInt1.VAL 0
+BL99:Det:N1:Det4:TOFTransInt2.VAL 0
+BL99:Det:N1:Det4:TOFTransInt3.VAL 0
+BL99:Det:N1:Det4:TOFTransInt4.VAL 0
+BL99:Det:N1:Det4:TOFTransInt5.VAL 0
+BL99:Det:N1:Det4:XY:Array:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:XY:Mask:0:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:0:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:0:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:0:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:0:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:0:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:0:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:0:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:0:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:1:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:1:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:1:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:1:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:1:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:1:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:1:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:1:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:1:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:2:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:2:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:2:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:2:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:2:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:2:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:2:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:2:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:2:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:3:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:3:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:3:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:3:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:3:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:3:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:3:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:3:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:3:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:4:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:4:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:4:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:4:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:4:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:4:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:4:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:4:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:4:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:5:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:5:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:5:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:5:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:5:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:5:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:5:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:5:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:5:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:6:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:6:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:6:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:6:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:6:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:6:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:6:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:6:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:6:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:7:PosX.VAL 0
+BL99:Det:N1:Det4:XY:Mask:7:PosXLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:7:PosY.VAL 0
+BL99:Det:N1:Det4:XY:Mask:7:PosYLink.DOL CP NPP MS
+BL99:Det:N1:Det4:XY:Mask:7:SizeX.VAL 1
+BL99:Det:N1:Det4:XY:Mask:7:SizeXLink.DOL 160 CP MS
+BL99:Det:N1:Det4:XY:Mask:7:SizeY.VAL 1
+BL99:Det:N1:Det4:XY:Mask:7:SizeYLink.DOL 32 CP MS
+BL99:Det:N1:Det4:XY:Mask:7:Value.VAL 0
+BL99:Det:N1:Det4:XY:Mask:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:XY:Min0.VAL 0
+BL99:Det:N1:Det4:XY:Min1.VAL 0
+BL99:Det:N1:Det4:XY:Min2.VAL 0
+BL99:Det:N1:Det4:XY:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:XY:ROI:0:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:0:MinX.VAL 5
+BL99:Det:N1:Det4:XY:ROI:0:MinY.VAL 5
+BL99:Det:N1:Det4:XY:ROI:0:SizeX.VAL 5
+BL99:Det:N1:Det4:XY:ROI:0:SizeY.VAL 5
+BL99:Det:N1:Det4:XY:ROI:1:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:1:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:1:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:1:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:1:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:2:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:3:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:4:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:5:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:6:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:BgdWidth.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:MinX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:MinY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:SizeX.VAL 0
+BL99:Det:N1:Det4:XY:ROI:7:SizeY.VAL 0
+BL99:Det:N1:Det4:XY:ROI:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:XY:ROI:TSNumPoints.VAL 1024
+BL99:Det:N1:Det4:XY:ROI:TSRead.SCAN 6
+BL99:Det:N1:Det4:XY:Scale:ManualMax.VAL 4092
+BL99:Det:N1:Det4:XY:Scale:Offset.VAL 0
+BL99:Det:N1:Det4:XY:Scale:Scale.VAL 1
+BL99:Det:N1:Det4:XY:Scale:SlideMax.VAL 4092
+BL99:Det:N1:Det4:XY:Size0.VAL 1
+BL99:Det:N1:Det4:XY:Size1.VAL 160
+BL99:Det:N1:Det4:XY:Size2.VAL 1024
+BL99:Det:N1:Det4:XY:Stat:BgdWidth.VAL 1
+BL99:Det:N1:Det4:XY:Stat:CursorX.VAL 256
+BL99:Det:N1:Det4:XY:Stat:CursorY.VAL 256
+BL99:Det:N1:Det4:XY:Stat:HistSize.VAL 256
+BL99:Det:N1:Det4:XY:Stat:NDArrayAddress.VAL 0
+BL99:Det:N1:Det4:XY:Stat:TSNumPoints.VAL 1024
+BL99:Det:N1:Det4:XY:Stat:TSRead.SCAN 6
+BL99:Det:N1:MinX.VAL 0
+BL99:Det:N1:MinY.VAL 0
+BL99:Det:N1:NumChannels.VAL 1
+BL99:Det:N1:NumDetectors.VAL 1
+BL99:Det:N1:NumExposures.VAL 1
+BL99:Det:N1:NumImages.VAL 1
+BL99:Det:N1:SizeX.VAL 1
+BL99:Det:N1:SizeY.VAL 1
+BL99:Det:N1:TOFMax.VAL 160000
+BL99:Det:N1:hdfNumPulsePerFile.VAL 20
+BL99:Det:N1:ShutterStatusEPICS_RBV.INP test CP MS
+BL99:Det:N1:ShutterStatusEPICS_RBV.ZRVL 0
+BL99:Det:N1:ShutterStatusEPICS_RBV.ONVL 1
+BL99:Det:N1:ColorMode.VAL 0
+BL99:Det:N1:DataType.VAL 1
+BL99:Det:N1:Det1:2DType.VAL 0
+BL99:Det:N1:Det1:TOF:Array:ColorMode.VAL 0
+BL99:Det:N1:Det1:TOF:Array:DataType.VAL 1
+BL99:Det:N1:Det1:TOF:ColorMode.VAL 0
+BL99:Det:N1:Det1:TOF:DataType.VAL 1
+BL99:Det:N1:Det1:TOF:DataTypeOut.VAL 8
+BL99:Det:N1:Det1:TOF:Mask:0:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:1:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:2:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:3:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:4:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:5:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:6:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:7:Type.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det1:TOF:Mask:DataType.VAL 1
+BL99:Det:N1:Det1:TOF:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det1:TOF:ROI:DataType.VAL 1
+BL99:Det:N1:Det1:TOFTransType.VAL 0
+BL99:Det:N1:Det1:XY:Array:ColorMode.VAL 0
+BL99:Det:N1:Det1:XY:Array:DataType.VAL 1
+BL99:Det:N1:Det1:XY:ColorMode.VAL 0
+BL99:Det:N1:Det1:XY:DataType.VAL 1
+BL99:Det:N1:Det1:XY:DataTypeOut.VAL 8
+BL99:Det:N1:Det1:XY:Mask:0:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:1:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:2:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:3:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:4:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:5:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:6:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:7:Type.VAL 0
+BL99:Det:N1:Det1:XY:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det1:XY:Mask:DataType.VAL 1
+BL99:Det:N1:Det1:XY:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det1:XY:ROI:DataType.VAL 1
+BL99:Det:N1:Det1:XY:Stat:ColorMode.VAL 0
+BL99:Det:N1:Det1:XY:Stat:DataType.VAL 1
+BL99:Det:N1:Det2:2DType.VAL 0
+BL99:Det:N1:Det2:TOF:Array:ColorMode.VAL 0
+BL99:Det:N1:Det2:TOF:Array:DataType.VAL 1
+BL99:Det:N1:Det2:TOF:ColorMode.VAL 0
+BL99:Det:N1:Det2:TOF:DataType.VAL 1
+BL99:Det:N1:Det2:TOF:DataTypeOut.VAL 8
+BL99:Det:N1:Det2:TOF:Mask:0:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:1:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:2:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:3:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:4:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:5:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:6:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:7:Type.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det2:TOF:Mask:DataType.VAL 1
+BL99:Det:N1:Det2:TOF:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det2:TOF:ROI:DataType.VAL 1
+BL99:Det:N1:Det2:TOFTransType.VAL 0
+BL99:Det:N1:Det2:XY:Array:ColorMode.VAL 0
+BL99:Det:N1:Det2:XY:Array:DataType.VAL 1
+BL99:Det:N1:Det2:XY:ColorMode.VAL 0
+BL99:Det:N1:Det2:XY:DataType.VAL 1
+BL99:Det:N1:Det2:XY:DataTypeOut.VAL 2
+BL99:Det:N1:Det2:XY:Mask:0:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:1:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:2:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:3:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:4:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:5:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:6:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:7:Type.VAL 0
+BL99:Det:N1:Det2:XY:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det2:XY:Mask:DataType.VAL 1
+BL99:Det:N1:Det2:XY:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det2:XY:ROI:DataType.VAL 1
+BL99:Det:N1:Det2:XY:Stat:ColorMode.VAL 0
+BL99:Det:N1:Det2:XY:Stat:DataType.VAL 1
+BL99:Det:N1:Det3:2DType.VAL 2
+BL99:Det:N1:Det3:TOF:Array:ColorMode.VAL 0
+BL99:Det:N1:Det3:TOF:Array:DataType.VAL 1
+BL99:Det:N1:Det3:TOF:ColorMode.VAL 0
+BL99:Det:N1:Det3:TOF:DataType.VAL 1
+BL99:Det:N1:Det3:TOF:DataTypeOut.VAL 8
+BL99:Det:N1:Det3:TOF:Mask:0:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:1:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:2:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:3:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:4:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:5:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:6:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:7:Type.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det3:TOF:Mask:DataType.VAL 1
+BL99:Det:N1:Det3:TOF:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det3:TOF:ROI:DataType.VAL 1
+BL99:Det:N1:Det3:TOFTransType.VAL 0
+BL99:Det:N1:Det3:XY:Array:ColorMode.VAL 0
+BL99:Det:N1:Det3:XY:Array:DataType.VAL 1
+BL99:Det:N1:Det3:XY:ColorMode.VAL 0
+BL99:Det:N1:Det3:XY:DataType.VAL 1
+BL99:Det:N1:Det3:XY:DataTypeOut.VAL 8
+BL99:Det:N1:Det3:XY:Mask:0:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:1:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:2:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:3:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:4:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:5:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:6:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:7:Type.VAL 0
+BL99:Det:N1:Det3:XY:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det3:XY:Mask:DataType.VAL 1
+BL99:Det:N1:Det3:XY:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det3:XY:ROI:DataType.VAL 1
+BL99:Det:N1:Det3:XY:Stat:ColorMode.VAL 0
+BL99:Det:N1:Det3:XY:Stat:DataType.VAL 1
+BL99:Det:N1:Det4:2DType.VAL 3
+BL99:Det:N1:Det4:TOF:Array:ColorMode.VAL 0
+BL99:Det:N1:Det4:TOF:Array:DataType.VAL 1
+BL99:Det:N1:Det4:TOF:ColorMode.VAL 0
+BL99:Det:N1:Det4:TOF:DataType.VAL 1
+BL99:Det:N1:Det4:TOF:DataTypeOut.VAL 8
+BL99:Det:N1:Det4:TOF:Mask:0:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:1:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:2:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:3:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:4:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:5:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:6:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:7:Type.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det4:TOF:Mask:DataType.VAL 1
+BL99:Det:N1:Det4:TOF:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det4:TOF:ROI:DataType.VAL 1
+BL99:Det:N1:Det4:TOFTransType.VAL 0
+BL99:Det:N1:Det4:XY:Array:ColorMode.VAL 0
+BL99:Det:N1:Det4:XY:Array:DataType.VAL 1
+BL99:Det:N1:Det4:XY:ColorMode.VAL 0
+BL99:Det:N1:Det4:XY:DataType.VAL 1
+BL99:Det:N1:Det4:XY:DataTypeOut.VAL 8
+BL99:Det:N1:Det4:XY:Mask:0:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:1:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:2:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:3:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:4:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:5:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:6:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:7:Type.VAL 0
+BL99:Det:N1:Det4:XY:Mask:ColorMode.VAL 0
+BL99:Det:N1:Det4:XY:Mask:DataType.VAL 1
+BL99:Det:N1:Det4:XY:ROI:ColorMode.VAL 0
+BL99:Det:N1:Det4:XY:ROI:DataType.VAL 1
+BL99:Det:N1:Det4:XY:Stat:ColorMode.VAL 0
+BL99:Det:N1:Det4:XY:Stat:DataType.VAL 1
+BL99:Det:N1:FrameType.VAL 0
+BL99:Det:N1:HdfFileWriteMode.VAL 1
+BL99:Det:N1:ImageMode.VAL 2
+BL99:Det:N1:ShutterMode.VAL 0
+BL99:Det:N1:TriggerMode.VAL 0
+BL99:Det:N1:Det1:Description.VAL Det 1
+BL99:Det:N1:Det1:TOF:Array:NDArrayPort.VAL N1.DET1.TOF
+BL99:Det:N1:Det1:TOF:Mask:0:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:1:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:2:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:3:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:4:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:5:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:6:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:7:Name.VAL  
+BL99:Det:N1:Det1:TOF:Mask:NDArrayPort.VAL N1.DET1.TOF
+BL99:Det:N1:Det1:TOF:NDArrayPort.VAL N1
+BL99:Det:N1:Det1:TOF:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:0:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:1:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:2:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:3:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:4:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:5:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:6:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:7:Name.VAL 
+BL99:Det:N1:Det1:TOF:ROI:NDArrayPort.VAL N1.DET1.TOF
+BL99:Det:N1:Det1:XY:Array:NDArrayPort.VAL N1.DET1.XY
+BL99:Det:N1:Det1:XY:Mask:0:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:1:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:2:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:3:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:4:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:5:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:6:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:7:Name.VAL  
+BL99:Det:N1:Det1:XY:Mask:NDArrayPort.VAL N1.DET1.XY
+BL99:Det:N1:Det1:XY:NDArrayPort.VAL N1
+BL99:Det:N1:Det1:XY:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:0:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:1:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:2:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:3:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:4:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:5:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:6:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:7:Name.VAL 
+BL99:Det:N1:Det1:XY:ROI:NDArrayPort.VAL N1.DET1.XY
+BL99:Det:N1:Det1:XY:Stat:NDArrayPort.VAL N1.DET1.XY
+BL99:Det:N1:Det2:Description.VAL Det 2
+BL99:Det:N1:Det2:TOF:Array:NDArrayPort.VAL N1.DET2.TOF
+BL99:Det:N1:Det2:TOF:Mask:0:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:1:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:2:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:3:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:4:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:5:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:6:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:7:Name.VAL  
+BL99:Det:N1:Det2:TOF:Mask:NDArrayPort.VAL N1.DET2.TOF
+BL99:Det:N1:Det2:TOF:NDArrayPort.VAL N1
+BL99:Det:N1:Det2:TOF:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:0:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:1:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:2:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:3:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:4:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:5:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:6:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:7:Name.VAL 
+BL99:Det:N1:Det2:TOF:ROI:NDArrayPort.VAL N1.DET2.TOF
+BL99:Det:N1:Det2:XY:Array:NDArrayPort.VAL N1.DET2.XY
+BL99:Det:N1:Det2:XY:Mask:0:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:1:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:2:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:3:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:4:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:5:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:6:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:7:Name.VAL  
+BL99:Det:N1:Det2:XY:Mask:NDArrayPort.VAL N1.DET2.XY
+BL99:Det:N1:Det2:XY:NDArrayPort.VAL N1
+BL99:Det:N1:Det2:XY:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:0:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:1:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:2:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:3:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:4:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:5:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:6:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:7:Name.VAL 
+BL99:Det:N1:Det2:XY:ROI:NDArrayPort.VAL N1.DET2.XY
+BL99:Det:N1:Det2:XY:Stat:NDArrayPort.VAL N1.DET2.XY
+BL99:Det:N1:Det3:Description.VAL Det 3 Y/TOF
+BL99:Det:N1:Det3:TOF:Array:NDArrayPort.VAL N1.DET3.TOF
+BL99:Det:N1:Det3:TOF:Mask:0:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:1:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:2:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:3:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:4:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:5:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:6:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:7:Name.VAL  
+BL99:Det:N1:Det3:TOF:Mask:NDArrayPort.VAL N1.DET3.TOF
+BL99:Det:N1:Det3:TOF:NDArrayPort.VAL N1
+BL99:Det:N1:Det3:TOF:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:0:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:1:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:2:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:3:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:4:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:5:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:6:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:7:Name.VAL 
+BL99:Det:N1:Det3:TOF:ROI:NDArrayPort.VAL N1.DET3.TOF
+BL99:Det:N1:Det3:XY:Array:NDArrayPort.VAL N1.DET3.XY
+BL99:Det:N1:Det3:XY:Mask:0:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:1:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:2:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:3:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:4:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:5:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:6:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:7:Name.VAL  
+BL99:Det:N1:Det3:XY:Mask:NDArrayPort.VAL N1.DET3.XY
+BL99:Det:N1:Det3:XY:NDArrayPort.VAL N1
+BL99:Det:N1:Det3:XY:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:0:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:1:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:2:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:3:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:4:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:5:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:6:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:7:Name.VAL 
+BL99:Det:N1:Det3:XY:ROI:NDArrayPort.VAL N1.DET3.XY
+BL99:Det:N1:Det3:XY:Stat:NDArrayPort.VAL N1.DET3.XY
+BL99:Det:N1:Det4:Description.VAL Det 4 ID/TOF
+BL99:Det:N1:Det4:TOF:Array:NDArrayPort.VAL N1.DET4.TOF
+BL99:Det:N1:Det4:TOF:Mask:0:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:1:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:2:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:3:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:4:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:5:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:6:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:7:Name.VAL  
+BL99:Det:N1:Det4:TOF:Mask:NDArrayPort.VAL N1.DET4.TOF
+BL99:Det:N1:Det4:TOF:NDArrayPort.VAL N1
+BL99:Det:N1:Det4:TOF:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:0:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:1:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:2:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:3:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:4:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:5:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:6:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:7:Name.VAL 
+BL99:Det:N1:Det4:TOF:ROI:NDArrayPort.VAL N1.DET4.TOF
+BL99:Det:N1:Det4:XY:Array:NDArrayPort.VAL N1.DET4.XY
+BL99:Det:N1:Det4:XY:Mask:0:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:1:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:2:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:3:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:4:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:5:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:6:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:7:Name.VAL  
+BL99:Det:N1:Det4:XY:Mask:NDArrayPort.VAL N1.DET4.XY
+BL99:Det:N1:Det4:XY:NDArrayPort.VAL N1
+BL99:Det:N1:Det4:XY:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:0:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:1:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:2:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:3:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:4:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:5:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:6:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:7:Name.VAL 
+BL99:Det:N1:Det4:XY:ROI:NDArrayPort.VAL N1.DET4.XY
+BL99:Det:N1:Det4:XY:Stat:NDArrayPort.VAL N1.DET4.XY
+BL99:Det:N1:Det1:PixelMapFile.VAL @array@ { "47" "111" "112" "116" "47" "101" "103" "99" "115" "47" "101" "112" "105" "99" "115" "47" "109" "111" "100" "117" "108" "101" "115" "47" "97" "114" "101" "97" "68" "101" "116" "101" "99" "116" "111" "114" "47" "65" "68" "110" "69" "68" "47" "101" "120" "97" "109" "112" "108" "101" "47" "109" "97" "112" "112" "105" "110" "103" "47" "112" "105" "120" "101" "108" "46" "109" "97" "112" "0" }
+BL99:Det:N1:Det1:TOF:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:TOF:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:TOF:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:TOF:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:TOFTransFile0.VAL @array@ { "47" "111" "112" "116" "47" "101" "103" "99" "115" "47" "101" "112" "105" "99" "115" "47" "109" "111" "100" "117" "108" "101" "115" "47" "97" "114" "101" "97" "68" "101" "116" "101" "99" "116" "111" "114" "47" "65" "68" "110" "69" "68" "47" "101" "120" "97" "109" "112" "108" "101" "47" "109" "97" "112" "112" "105" "110" "103" "47" "116" "111" "102" "46" "116" "114" "97" "110" "115" "0" }
+BL99:Det:N1:Det1:TOFTransFile1.VAL 
+BL99:Det:N1:Det1:TOFTransFile2.VAL 
+BL99:Det:N1:Det1:TOFTransFile3.VAL 
+BL99:Det:N1:Det1:TOFTransFile4.VAL 
+BL99:Det:N1:Det1:TOFTransFile5.VAL 
+BL99:Det:N1:Det1:XY:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:XY:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:XY:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:XY:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det1:XY:Stat:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:PixelMapFile.VAL @array@ { "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" "0" }
+BL99:Det:N1:Det2:TOF:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:TOF:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:TOF:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:TOF:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:TOFTransFile0.VAL 
+BL99:Det:N1:Det2:TOFTransFile1.VAL 
+BL99:Det:N1:Det2:TOFTransFile2.VAL 
+BL99:Det:N1:Det2:TOFTransFile3.VAL 
+BL99:Det:N1:Det2:TOFTransFile4.VAL 
+BL99:Det:N1:Det2:TOFTransFile5.VAL 
+BL99:Det:N1:Det2:XY:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:XY:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:XY:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:XY:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det2:XY:Stat:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:PixelMapFile.VAL 
+BL99:Det:N1:Det3:TOF:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:TOF:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:TOF:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:TOF:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:TOFTransFile0.VAL 
+BL99:Det:N1:Det3:TOFTransFile1.VAL 
+BL99:Det:N1:Det3:TOFTransFile2.VAL 
+BL99:Det:N1:Det3:TOFTransFile3.VAL 
+BL99:Det:N1:Det3:TOFTransFile4.VAL 
+BL99:Det:N1:Det3:TOFTransFile5.VAL 
+BL99:Det:N1:Det3:XY:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:XY:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:XY:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:XY:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det3:XY:Stat:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:PixelMapFile.VAL 
+BL99:Det:N1:Det4:TOF:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:TOF:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:TOF:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:TOF:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:TOFTransFile0.VAL 
+BL99:Det:N1:Det4:TOFTransFile1.VAL 
+BL99:Det:N1:Det4:TOFTransFile2.VAL 
+BL99:Det:N1:Det4:TOFTransFile3.VAL 
+BL99:Det:N1:Det4:TOFTransFile4.VAL 
+BL99:Det:N1:Det4:TOFTransFile5.VAL 
+BL99:Det:N1:Det4:XY:Array:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:XY:Mask:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:XY:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:XY:ROI:NDAttributesFile.VAL 
+BL99:Det:N1:Det4:XY:Stat:NDAttributesFile.VAL 
+BL99:Det:N1:HdfFilePath.VAL @array@ { "47" "104" "111" "109" "101" "47" "101" "103" "99" "115" "47" "68" "101" "115" "107" "116" "111" "112" "47" "68" "97" "116" "97" "49" "48" "46" "50" "56" "47" }
+BL99:Det:N1:HdfFileTemplate.VAL @array@ { "95" "37" "53" "46" "53" "100" "46" "104" "53" "0" }
+BL99:Det:N1:HdfFullFileName.VAL @array@ { "71" "80" "80" "68" "95" "50" "56" "0" "0" "0" "0" }
+BL99:Det:N1:NDAttributesFile.VAL 
+BL99:Det:N1:PVName0.VAL @array@ { "110" "101" "117" "116" "114" "111" "110" "115" "0" }
+BL99:Det:N1:PVName1.VAL 
+BL99:Det:N1:PVName2.VAL 
+BL99:Det:N1:PVName3.VAL 
+<END>

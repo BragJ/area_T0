@@ -1,0 +1,1 @@
+nxxml.o: ../nxxml.c

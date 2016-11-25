@@ -1,0 +1,345 @@
+## pointGrey.template
+## Template database file to control the features of a Point Grey camera.
+##
+## Note: the strings and values for the mbbo and mbbi records in this database
+## are built dynamically at run-time based on the capabilites of the specific camera
+
+include "ADBase.template"
+
+## These are the records from ADBase.template that we modify
+## Disable ReadStatus when acquisition is active because queurying the detector 
+## when it is streaming causes dropped frames
+record(bo, $(P)$(R)ReadStatus) {
+  field(SDIS, "$(P)$(R)Acquire NPP NMS")
+  field(DISV, "1")
+}
+
+# These are records new to the Point Grey detector
+
+## VideoMode
+record(mbbo, "$(P)$(R)VideoMode") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_VIDEO_MODE")
+}
+
+record(mbbi, "$(P)$(R)VideoMode_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_VIDEO_MODE")
+}
+
+## Format7Mode
+record(mbbo, "$(P)$(R)Format7Mode") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_FORMAT7_MODE")
+}
+
+record(mbbi, "$(P)$(R)Format7Mode_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_FORMAT7_MODE")
+}
+
+## Framerate when the camera is not in the ROI/format7 mode
+record(mbbo, "$(P)$(R)FrameRate") {
+  field(PINI, "YES")
+  field(PHAS, "2")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_FRAME_RATE")
+}
+
+record(mbbi, "$(P)$(R)FrameRate_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_FRAME_RATE")
+}
+
+## Format 7 pixel format
+record(mbbo, "$(P)$(R)PixelFormat") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_PIXEL_FORMAT")
+}
+
+record(mbbi, "$(P)$(R)PixelFormat_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_PIXEL_FORMAT")
+}
+
+## Binning mode
+record(mbbo, "$(P)$(R)BinningMode") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_BINNING_MODE")
+}
+
+record(mbbi, "$(P)$(R)BinningMode_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_BINNING_MODE")
+}
+
+## Convert pixel format
+record(mbbo, "$(P)$(R)ConvertPixelFormat") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_CONVERT_PIXEL_FORMAT")
+}
+
+record(mbbi, "$(P)$(R)ConvertPixelFormat_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_CONVERT_PIXEL_FORMAT")
+}
+
+## Trigger source
+record(mbbo, "$(P)$(R)TriggerSource") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_TRIGGER_SOURCE")
+}
+
+record(mbbi, "$(P)$(R)TriggerSource_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_TRIGGER_SOURCE")
+}
+
+## Trigger polarity
+record(bo, "$(P)$(R)TriggerPolarity") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Low")
+  field(ONAM, "High")
+  field(OUT,  "@asyn($(PORT) 0)PG_TRIGGER_POLARITY")
+}
+
+record(bi, "$(P)$(R)TriggerPolarity_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Low")
+  field(ONAM, "High")
+  field(INP,  "@asyn($(PORT) 0)PG_TRIGGER_POLARITY")
+}
+
+## Software trigger
+record(bo, "$(P)$(R)SoftwareTrigger") {
+  field(PINI, "NO")
+  field(DTYP, "asynInt32")
+  field(ONAM, "Trigger")
+  field(ZNAM, "Done")
+  field(OUT,  "@asyn($(PORT) 0)PG_SOFTWARE_TRIGGER")
+}
+
+## Skip frames
+record(longout, "$(P)$(R)SkipFrames") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_SKIP_FRAMES")
+}
+
+record(longin, "$(P)$(R)SkipFrames_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_SKIP_FRAMES")
+}
+
+## Strobe parameters
+record(mbbo, "$(P)$(R)StrobeSource") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_STROBE_SOURCE")
+}
+
+record(mbbi, "$(P)$(R)StrobeSource_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_STROBE_SOURCE")
+}
+
+record(bo, "$(P)$(R)StrobeEnable") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Disable")
+  field(ONAM, "Enable")
+  field(OUT,  "@asyn($(PORT) 0)PG_STROBE_ENABLE")
+}
+
+record(bi, "$(P)$(R)StrobeEnable_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Disable")
+  field(ONAM, "Enable")
+  field(INP,  "@asyn($(PORT) 0)PG_STROBE_ENABLE")
+}
+
+record(bo, "$(P)$(R)StrobePolarity") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Low")
+  field(ONAM, "High")
+  field(OUT,  "@asyn($(PORT) 0)PG_STROBE_POLARITY")
+}
+
+record(bi, "$(P)$(R)StrobePolarity_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(ZNAM, "Low")
+  field(ONAM, "High")
+  field(INP,  "@asyn($(PORT) 0)PG_STROBE_POLARITY")
+}
+
+record(ao, "$(P)$(R)StrobeDelay") {
+  field(PINI, "YES")
+  field(DTYP, "asynFloat64")
+  field(OUT,  "@asyn($(PORT) 0)PG_STROBE_DELAY")
+  field(PREC, "3")
+  field(VAL, "1.0")
+}
+
+record(ai, "$(P)$(R)StrobeDelay_RBV") {
+  field(DTYP, "asynFloat64")
+  field(INP,  "@asyn($(PORT) 0)PG_STROBE_DELAY")
+  field(PREC, "3")
+  field(SCAN, "I/O Intr")
+}
+
+record(ao, "$(P)$(R)StrobeDuration") {
+  field(PINI, "YES")
+  field(DTYP, "asynFloat64")
+  field(OUT,  "@asyn($(PORT) 0)PG_STROBE_DURATION")
+  field(PREC, "3")
+  field(VAL, "1.0")
+}
+
+record(ai, "$(P)$(R)StrobeDuration_RBV") {
+  field(DTYP, "asynFloat64")
+  field(INP,  "@asyn($(PORT) 0)PG_STROBE_DURATION")
+  field(PREC, "3")
+  field(SCAN, "I/O Intr")
+}
+
+# Packet size
+record(longout, "$(P)$(R)PacketSize") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_PACKET_SIZE")
+}
+
+record(longin, "$(P)$(R)PacketSize_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_PACKET_SIZE")
+  field(SCAN, "I/O Intr")
+}
+
+record(longin, "$(P)$(R)PacketSizeActual") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_PACKET_SIZE_ACTUAL")
+  field(SCAN, "I/O Intr")
+}
+
+record(longin, "$(P)$(R)MaxPacketSize") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_MAX_PACKET_SIZE")
+  field(SCAN, "I/O Intr")
+}
+
+# Packet delay
+record(longout, "$(P)$(R)PacketDelay") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_PACKET_DELAY")
+}
+
+record(longin, "$(P)$(R)PacketDelay_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_PACKET_DELAY")
+  field(SCAN, "I/O Intr")
+}
+
+record(longin, "$(P)$(R)PacketDelayActual") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_PACKET_DELAY_ACTUAL")
+  field(SCAN, "I/O Intr")
+}
+
+record(ai, "$(P)$(R)Bandwidth") {
+  field(DTYP, "asynFloat64")
+  field(INP,  "@asyn($(PORT) 0)PG_BANDWIDTH")
+  field(SCAN, "I/O Intr")
+  field(PREC, "1")
+}
+
+## Timestamp mode
+record(mbbo, "$(P)$(R)TimeStampMode") {
+  field(PINI, "YES")
+  field(DTYP, "asynInt32")
+  field(OUT,  "@asyn($(PORT) 0)PG_TIME_STAMP_MODE")
+  field(ZRVL, "0")
+  field(ZRST, "Camera")
+  field(ONVL, "1")
+  field(ONST, "EPICS")
+  field(TWVL, "2")
+  field(TWST, "Hybrid")
+}
+
+record(mbbi, "$(P)$(R)TimeStampMode_RBV") {
+  field(SCAN, "I/O Intr")
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_TIME_STAMP_MODE")
+  field(ZRVL, "0")
+  field(ZRST, "Camera")
+  field(ONVL, "1")
+  field(ONST, "EPICS")
+  field(TWVL, "2")
+  field(TWST, "Hybrid")
+}
+
+# Corrupt frames
+record(longin, "$(P)$(R)CorruptFrames_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_CORRUPT_FRAMES")
+  field(SCAN, "I/O Intr")
+}
+
+# Driver dropped frames
+record(longin, "$(P)$(R)DriverDropped_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_DRIVER_DROPPED")
+  field(SCAN, "I/O Intr")
+}
+
+# Transmit failures
+record(longin, "$(P)$(R)TransmitFailed_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_TRANSMIT_FAILED")
+  field(SCAN, "I/O Intr")
+}
+
+# Dropped frames
+record(longin, "$(P)$(R)DroppedFrames_RBV") {
+  field(DTYP, "asynInt32")
+  field(INP,  "@asyn($(PORT) 0)PG_DROPPED_FRAMES")
+  field(SCAN, "I/O Intr")
+}
+
+record(longin, "$(P)$(R)SerialNumber") {
+   field(PINI, "YES")
+   field(DTYP, "asynInt32")
+   field(INP,  "@asyn($(PORT) 0)PG_SERIAL_NUMBER")
+}
+
+record(stringin, "$(P)$(R)FirmwareVersion") {
+   field(PINI, "YES")
+   field(DTYP, "asynOctetRead")
+   field(INP,  "@asyn($(PORT) 0)PG_FIRMWARE_VERSION")
+}
+
+record(stringin, "$(P)$(R)SoftwareVersion") {
+   field(PINI, "YES")
+   field(DTYP, "asynOctetRead")
+   field(INP,  "@asyn($(PORT) 0)PG_SOFTWARE_VERSION")
+}

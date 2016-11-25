@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no" ?>
+<!-- Attributes -->
+<Attributes
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://github.com/areaDetector/ADCore/blob/master/iocBoot/NDAttributes.xsd"
+    >
+
+    <Attribute name="EventTotal_RBV"         type="EPICS_PV" source="BL99:Det:N1:Det1:EventTotal_RBV"      dbrtype="DBR_NATIVE"  description="Event total number"/>
+
+ 
+
+ </Attributes>
+    
+    

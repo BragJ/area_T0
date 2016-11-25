@@ -1,0 +1,6026 @@
+
+file {
+	name="C:\jhSrc\synApps_5_7\support\areaDetector_2_git\ADPICam\PICamApp\op\adl\PICAM_ParameterRelevance.adl"
+	version=030109
+}
+display {
+	object {
+		x=10
+		y=36
+		width=1698
+		height=1002
+	}
+	clr=14
+	bclr=4
+	cmap=""
+	gridSpacing=5
+	gridOn=0
+	snapToGrid=0
+}
+"color map" {
+	ncolors=65
+	colors {
+		ffffff,
+		ececec,
+		dadada,
+		c8c8c8,
+		bbbbbb,
+		aeaeae,
+		9e9e9e,
+		919191,
+		858585,
+		787878,
+		696969,
+		5a5a5a,
+		464646,
+		2d2d2d,
+		000000,
+		00d800,
+		1ebb00,
+		339900,
+		2d7f00,
+		216c00,
+		fd0000,
+		de1309,
+		be190b,
+		a01207,
+		820400,
+		5893ff,
+		597ee1,
+		4b6ec7,
+		3a5eab,
+		27548d,
+		fbf34a,
+		f9da3c,
+		eeb62b,
+		e19015,
+		cd6100,
+		ffb0ff,
+		d67fe2,
+		ae4ebc,
+		8b1a96,
+		610a75,
+		a4aaff,
+		8793e2,
+		6a73c1,
+		4d52a4,
+		343386,
+		c7bb6d,
+		b79d5c,
+		a47e3c,
+		7d5627,
+		58340f,
+		99ffff,
+		73dfff,
+		4ea5f9,
+		2a63e4,
+		0a00b8,
+		ebf1b5,
+		d4db9d,
+		bbc187,
+		a6a462,
+		8b8239,
+		73ff6b,
+		52da3b,
+		3cb420,
+		289315,
+		1a7309,
+	}
+}
+text {
+	object {
+		x=16
+		y=900
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CorrectPixelBias"
+}
+text {
+	object {
+		x=16
+		y=43
+		width=183
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Shutter Timing"
+}
+text {
+	object {
+		x=12
+		y=71
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ExposureTime"
+}
+text {
+	object {
+		x=12
+		y=91
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ShutterClosingDelay"
+}
+text {
+	object {
+		x=12
+		y=111
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ShutterDelayResolution"
+}
+text {
+	object {
+		x=12
+		y=131
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ShutterOpeningDelay"
+}
+text {
+	object {
+		x=12
+		y=151
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ShutterTimingMode"
+}
+text {
+	object {
+		x=261
+		y=8
+		width=600
+		height=30
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PICAM Parameter Relevance For:"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=16
+		y=178
+		width=183
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Intensifier"
+}
+text {
+	object {
+		x=15
+		y=205
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="BracketGating"
+}
+text {
+	object {
+		x=15
+		y=225
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CustomModulationSequence"
+}
+text {
+	object {
+		x=15
+		y=245
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="DifEndingGate"
+}
+text {
+	object {
+		x=15
+		y=265
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="DifStartingGate"
+}
+text {
+	object {
+		x=15
+		y=285
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EMIccdGain"
+}
+text {
+	object {
+		x=15
+		y=305
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EMIccdGainControlMode"
+}
+text {
+	object {
+		x=15
+		y=325
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableIntensifier"
+}
+text {
+	object {
+		x=15
+		y=345
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableModulation"
+}
+text {
+	object {
+		x=15
+		y=365
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="GatingMode"
+}
+text {
+	object {
+		x=15
+		y=385
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="GatingSpeed"
+}
+text {
+	object {
+		x=15
+		y=405
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="IntensifierDiameter"
+}
+text {
+	object {
+		x=15
+		y=425
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="IntensifierGain"
+}
+text {
+	object {
+		x=15
+		y=445
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="IntensifierOptions"
+}
+text {
+	object {
+		x=15
+		y=465
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="IntensifierStatus"
+}
+text {
+	object {
+		x=15
+		y=485
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationDuration"
+}
+text {
+	object {
+		x=15
+		y=505
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationFrequency"
+}
+text {
+	object {
+		x=15
+		y=525
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhosphorDecayDelay"
+}
+text {
+	object {
+		x=15
+		y=545
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhosphorDecayDelayResolution"
+}
+text {
+	object {
+		x=15
+		y=565
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhosphorType"
+}
+text {
+	object {
+		x=15
+		y=585
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhotocathodeSensitivity"
+}
+text {
+	object {
+		x=15
+		y=605
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="RepetitiveGate"
+}
+text {
+	object {
+		x=15
+		y=625
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="RepetitiveModulation"
+}
+text {
+	object {
+		x=15
+		y=645
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialStartingModulationPhase"
+}
+text {
+	object {
+		x=15
+		y=665
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialEndingModulationPhase"
+}
+text {
+	object {
+		x=15
+		y=685
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialEndingGate"
+}
+text {
+	object {
+		x=15
+		y=705
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialGateStepCount"
+}
+text {
+	object {
+		x=15
+		y=725
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialGateStepIterations"
+}
+text {
+	object {
+		x=15
+		y=745
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SequentialStartingGate"
+}
+text {
+	object {
+		x=16
+		y=772
+		width=330
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Analog To Digital Conversion"
+}
+text {
+	object {
+		x=16
+		y=800
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AdcAnalogGain"
+}
+text {
+	object {
+		x=16
+		y=820
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AdcBitDepth"
+}
+text {
+	object {
+		x=16
+		y=840
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AdcEMGain"
+}
+text {
+	object {
+		x=16
+		y=860
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AdcQuality"
+}
+text {
+	object {
+		x=16
+		y=880
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AdcSpeed"
+}
+text {
+	object {
+		x=420
+		y=43
+		width=183
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Hardware I/O"
+}
+text {
+	object {
+		x=421
+		y=71
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="AuxOutput"
+}
+text {
+	object {
+		x=421
+		y=91
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableModulationOutputSignal"
+}
+text {
+	object {
+		x=421
+		y=111
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationOutputSignalFrequency"
+}
+text {
+	object {
+		x=421
+		y=131
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationOutputSignalAmplitude"
+}
+text {
+	object {
+		x=421
+		y=151
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableSyncMaster"
+}
+text {
+	object {
+		x=421
+		y=171
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="InvertOutputSignal"
+}
+text {
+	object {
+		x=421
+		y=191
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="OutputSignal"
+}
+text {
+	object {
+		x=421
+		y=211
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SyncMaster2Delay"
+}
+text {
+	object {
+		x=421
+		y=231
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerCoupling"
+}
+text {
+	object {
+		x=421
+		y=251
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerDetermination"
+}
+text {
+	object {
+		x=421
+		y=271
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerFrequency"
+}
+text {
+	object {
+		x=421
+		y=291
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerResponse"
+}
+text {
+	object {
+		x=421
+		y=311
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerSource"
+}
+text {
+	object {
+		x=421
+		y=331
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerTermination"
+}
+text {
+	object {
+		x=421
+		y=351
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TriggerThreshold"
+}
+text {
+	object {
+		x=420
+		y=380
+		width=183
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Readout Control"
+}
+text {
+	object {
+		x=421
+		y=406
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Accumulaations"
+}
+text {
+	object {
+		x=421
+		y=426
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableNondestructiveReadout"
+}
+text {
+	object {
+		x=421
+		y=446
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="KineticsWindowHeight"
+}
+text {
+	object {
+		x=421
+		y=466
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="NondestructiveReadoutPeriod"
+}
+text {
+	object {
+		x=421
+		y=486
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutControlMode"
+}
+text {
+	object {
+		x=421
+		y=506
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutOrientation"
+}
+text {
+	object {
+		x=421
+		y=526
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutPortCount"
+}
+text {
+	object {
+		x=421
+		y=546
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutTimeCalculation"
+}
+text {
+	object {
+		x=421
+		y=566
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="VerticalShiftRate"
+}
+text {
+	object {
+		x=820
+		y=43
+		width=183
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Data Acquistion"
+}
+text {
+	object {
+		x=824
+		y=70
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="DisableDataFormatting"
+}
+text {
+	object {
+		x=824
+		y=90
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ExactReadoutCountMaximum"
+}
+text {
+	object {
+		x=824
+		y=110
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="FrameRateCalculation"
+}
+text {
+	object {
+		x=824
+		y=130
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="FrameSize"
+}
+text {
+	object {
+		x=824
+		y=150
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="FramesPerReadout"
+}
+text {
+	object {
+		x=824
+		y=170
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="FrameStride"
+}
+text {
+	object {
+		x=824
+		y=190
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="FrameTrackingBitDepth"
+}
+text {
+	object {
+		x=824
+		y=210
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="GateTracking"
+}
+text {
+	object {
+		x=824
+		y=230
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="GateTrackingBitDepth"
+}
+text {
+	object {
+		x=824
+		y=250
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationTracking"
+}
+text {
+	object {
+		x=824
+		y=270
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ModulationTrackingBitDepth"
+}
+text {
+	object {
+		x=824
+		y=290
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="NormalizeOrientation"
+}
+text {
+	object {
+		x=824
+		y=310
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="OnlineReadoutRateCalculation"
+}
+text {
+	object {
+		x=824
+		y=330
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Orientation"
+}
+text {
+	object {
+		x=824
+		y=350
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhotonDetectionMode"
+}
+text {
+	object {
+		x=824
+		y=370
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PhotonDetectionThreshold"
+}
+text {
+	object {
+		x=824
+		y=390
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelBitDepth"
+}
+text {
+	object {
+		x=824
+		y=410
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelFormat"
+}
+text {
+	object {
+		x=824
+		y=430
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutCount"
+}
+text {
+	object {
+		x=824
+		y=450
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutRateCalculation"
+}
+text {
+	object {
+		x=824
+		y=470
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ReadoutStride"
+}
+text {
+	object {
+		x=824
+		y=490
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Rois"
+}
+text {
+	object {
+		x=824
+		y=510
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TimeStampBitDepth"
+}
+text {
+	object {
+		x=824
+		y=530
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TimeStampResolution"
+}
+text {
+	object {
+		x=824
+		y=550
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TimeStamps"
+}
+text {
+	object {
+		x=824
+		y=570
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="TrackFrames"
+}
+text {
+	object {
+		x=820
+		y=590
+		width=200
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Sensor Information"
+}
+text {
+	object {
+		x=820
+		y=617
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CcdCharacteristics"
+}
+text {
+	object {
+		x=820
+		y=637
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelGapHeight"
+}
+text {
+	object {
+		x=820
+		y=657
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelGapWidth"
+}
+text {
+	object {
+		x=820
+		y=677
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelHeight"
+}
+text {
+	object {
+		x=820
+		y=697
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="PixelWidth"
+}
+text {
+	object {
+		x=820
+		y=717
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveBottomMargin"
+}
+text {
+	object {
+		x=820
+		y=737
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveHeight"
+}
+text {
+	object {
+		x=820
+		y=757
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveLeftMargin"
+}
+text {
+	object {
+		x=820
+		y=777
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveRightMargin"
+}
+text {
+	object {
+		x=820
+		y=797
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveTopMargin"
+}
+text {
+	object {
+		x=820
+		y=817
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorActiveWidth"
+}
+text {
+	object {
+		x=820
+		y=837
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorMaskedBottomMargin"
+}
+text {
+	object {
+		x=820
+		y=857
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorMaskedHeight"
+}
+text {
+	object {
+		x=820
+		y=877
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorMaskedTopMargin"
+}
+text {
+	object {
+		x=820
+		y=897
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorSecondaryActiveHeight"
+}
+text {
+	object {
+		x=820
+		y=917
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorSecondaryMaskedHeight"
+}
+text {
+	object {
+		x=820
+		y=937
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorType"
+}
+text {
+	object {
+		x=420
+		y=586
+		width=200
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Sensor Layout"
+}
+text {
+	object {
+		x=421
+		y=610
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveBottomMargin"
+}
+text {
+	object {
+		x=421
+		y=630
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveHeight"
+}
+text {
+	object {
+		x=421
+		y=650
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveLeftMargin"
+}
+text {
+	object {
+		x=421
+		y=670
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveRightMargin"
+}
+text {
+	object {
+		x=421
+		y=690
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveTopMargin"
+}
+text {
+	object {
+		x=421
+		y=710
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="ActiveWidth"
+}
+text {
+	object {
+		x=421
+		y=730
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="MaskedBottomMargin"
+}
+text {
+	object {
+		x=421
+		y=750
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="MaskedHeight"
+}
+text {
+	object {
+		x=421
+		y=770
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="MaskedTopMargin"
+}
+text {
+	object {
+		x=421
+		y=790
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SecondaryActiveHeight"
+}
+text {
+	object {
+		x=421
+		y=810
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SecondaryMaskedHeight"
+}
+text {
+	object {
+		x=1220
+		y=43
+		width=200
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Sensor Cleaning"
+}
+text {
+	object {
+		x=1221
+		y=69
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanBeforeExposure"
+}
+text {
+	object {
+		x=1221
+		y=89
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanCycleCount"
+}
+text {
+	object {
+		x=1221
+		y=109
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanCycleHeight"
+}
+text {
+	object {
+		x=1221
+		y=129
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanSectionFinalHeight"
+}
+text {
+	object {
+		x=1221
+		y=149
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanSectionFinalHeightCount"
+}
+text {
+	object {
+		x=1221
+		y=169
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanSerialRegister"
+}
+text {
+	object {
+		x=1221
+		y=189
+		width=364
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="CleanUntilTrigger"
+}
+text {
+	object {
+		x=1221
+		y=246
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="DisableCoolingFan"
+}
+text {
+	object {
+		x=1221
+		y=266
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="EnableSensorWindowHeater"
+}
+text {
+	object {
+		x=1221
+		y=286
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorTemperatureReading"
+}
+text {
+	object {
+		x=1221
+		y=306
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorTemperatureSetPoint"
+}
+text {
+	object {
+		x=1221
+		y=326
+		width=320
+		height=15
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="SensorTemperatureStatus"
+}
+text {
+	object {
+		x=1220
+		y=220
+		width=210
+		height=26
+	}
+	"basic attribute" {
+		clr=14
+	}
+	textix="Sensor Temperature"
+}
+oval {
+	object {
+		x=338
+		y=71
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ExposureTime_EX"
+	}
+}
+oval {
+	object {
+		x=337
+		y=91
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterClosingDelay_EX"
+	}
+}
+oval {
+	object {
+		x=337
+		y=111
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterDelayResolution_EX"
+	}
+}
+oval {
+	object {
+		x=337
+		y=131
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterOpenDelay_EX"
+	}
+}
+oval {
+	object {
+		x=337
+		y=151
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterTimingMode_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=205
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)BracketGating_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=225
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CustomModSeq_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=245
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DifEndGate_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=265
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DifStartGate_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=285
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EMIccdGain_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=305
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EMIccdGainMode_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=325
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableIntensifier_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=345
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableModulation_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=365
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GatingMode_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=385
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GatingSpeed_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=405
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierDiameter_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=425
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierGain_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=445
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierOptions_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=465
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierStatus_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=485
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationDuration_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=505
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationFrequency_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=525
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorDecayDelay_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=545
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorDecayDelayResolution_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=565
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorType_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=585
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotocathodeSensitivity_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=605
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)RepetitiveGate_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=625
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)RepetitiveModulation_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=645
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqStartModPhase_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=665
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqEndModPhase_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=685
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqEndGate_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=705
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqGateStepCount_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=725
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqGateStepIters_EX"
+	}
+}
+oval {
+	object {
+		x=340
+		y=745
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqStartGate_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=800
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcAnalogGain_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=820
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=840
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcEMGain_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=860
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcQuality_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=880
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcSpeed_EX"
+	}
+}
+oval {
+	object {
+		x=341
+		y=900
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CorrectPixelBias_EX"
+	}
+}
+oval {
+	object {
+		x=367
+		y=71
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ExposureTime_PR"
+	}
+}
+oval {
+	object {
+		x=367
+		y=91
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterClosingDelay_PR"
+	}
+}
+oval {
+	object {
+		x=367
+		y=111
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterDelayResolution_PR"
+	}
+}
+oval {
+	object {
+		x=367
+		y=131
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterOpenDelay_PR"
+	}
+}
+oval {
+	object {
+		x=367
+		y=151
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ShutterTimingMode_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=205
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)BracketGating_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=225
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CustomModSeq_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=245
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DifEndGate_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=265
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DifStartGate_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=285
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EMIccdGain_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=305
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EMIccdGainMode_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=325
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableIntensifier_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=345
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableModulation_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=365
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GatingMode_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=385
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GatingSpeed_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=405
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierDiameter_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=425
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierGain_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=445
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierOptions_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=465
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)IntensifierStatus_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=485
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationDuration_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=505
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationFrequency_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=525
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorDecayDelay_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=545
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorDecayDelayResolution_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=565
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhosphorType_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=585
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotocathodeSensitivity_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=605
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)RepetitiveGate_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=625
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)RepetitiveModulation_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=645
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqStartModPhase_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=665
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqEndModPhase_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=685
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqEndGate_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=705
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqGateStepCount_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=725
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqGateStepIters_PR"
+	}
+}
+oval {
+	object {
+		x=370
+		y=745
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SeqStartGate_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=800
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcAnalogGain_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=820
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=840
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcEMGain_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=860
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcQuality_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=880
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)AdcSpeed_PR"
+	}
+}
+oval {
+	object {
+		x=371
+		y=900
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CorrectPixelBias_PR"
+	}
+}
+oval {
+	object {
+		x=777
+		y=71
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)BracketGating_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=91
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableModulationOutSig_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=111
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationOutSigFreq_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=131
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationOutSigAmpl_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=151
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableSyncMaster_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=171
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)InvertOutSig_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=191
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)OutputSignal_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=211
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SyncMaster2Delay_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=231
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerCoupling_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=251
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerDetermination_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=271
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerFrequency_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=291
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerResponse_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=311
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerSource_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=331
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerTermination_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=351
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerThreshold_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=406
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Accumulations_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=426
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableNDReadout_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=446
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)KineticsWindowHeight_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=466
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)NDReadoutPeriod_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=486
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutCtlMode_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=506
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutOrientation_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=526
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutPortCount_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=546
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutTimeCalculation_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=566
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)VerticalShiftRate_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=610
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveBottomMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=630
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveHeight_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=650
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveLeftMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=670
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveRightMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=690
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveTopMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=710
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveWidth_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=730
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskBottomMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=750
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskHeight_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=770
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskTopMargin_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=790
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveHeight2_PR"
+	}
+}
+oval {
+	object {
+		x=776
+		y=810
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskedHeight2_PR"
+	}
+}
+oval {
+	object {
+		x=749
+		y=71
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)BracketGating_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=91
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableModulationOutSig_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=111
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationOutSigFreq_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=131
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModulationOutSigAmpl_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=151
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableSyncMaster_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=171
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)InvertOutSig_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=191
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)OutputSignal_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=211
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SyncMaster2Delay_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=231
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerCoupling_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=251
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerDetermination_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=271
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerFrequency_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=291
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerResponse_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=311
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerSource_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=331
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerTermination_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=351
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TriggerThreshold_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=406
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Accumulations_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=426
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableNDReadout_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=446
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)KineticsWindowHeight_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=466
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)NDReadoutPeriod_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=486
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutCtlMode_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=506
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutOrientation_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=526
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutPortCount_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=546
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutTimeCalculation_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=566
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)VerticalShiftRate_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=610
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveBottomMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=630
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveHeight_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=650
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveLeftMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=670
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveRightMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=690
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveTopMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=710
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveWidth_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=730
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskBottomMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=750
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskHeight_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=770
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskTopMargin_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=790
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ActiveHeight2_EX"
+	}
+}
+oval {
+	object {
+		x=748
+		y=810
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)MaskedHeight2_EX"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=70
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DisableDataFormat_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=90
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ExactRdoutCountMax_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=110
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameRateCalc_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=130
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameSize_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=150
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FramesPerReadout_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=170
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameStride_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=190
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameTrkBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=210
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GateTracking_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=230
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GateTrkBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=250
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModTracking_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=270
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModTrkBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=290
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)NormalizeOrientation_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=310
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)OnlineReadoutCalc_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=330
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Orientation_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=350
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotonDetectionMode_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=370
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotonDetectionThreshold_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=390
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=410
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelFormat_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=430
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutCount_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=450
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutRateCalc_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=470
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutStride_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=490
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Rois_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=510
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStampBitDepth_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=530
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStampRes_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=550
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStamps_PR"
+	}
+}
+oval {
+	object {
+		x=1179
+		y=570
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TrackFrames_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=617
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CcdCharacteristics_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=637
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelGapHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=657
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelGapWidth_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=677
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=697
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelWidth_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=717
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActBottomMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=737
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=757
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActLeftMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=777
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActRightMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=797
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActTopMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=817
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActWidth_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=837
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskBottomMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=857
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=877
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskTopMargin_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=897
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorActiveHeight2_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=917
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorMaskHeight2_PR"
+	}
+}
+oval {
+	object {
+		x=1175
+		y=937
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorType_PR"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=70
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DisableDataFormat_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=90
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ExactRdoutCountMax_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=110
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameRateCalc_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=130
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameSize_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=150
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FramesPerReadout_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=170
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameStride_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=190
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)FrameTrkBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=210
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GateTracking_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=230
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)GateTrkBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=250
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModTracking_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=270
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ModTrkBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=290
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)NormalizeOrientation_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=310
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)OnlineReadoutCalc_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=330
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Orientation_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=350
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotonDetectionMode_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=370
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PhotonDetectionThreshold_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=390
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=410
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelFormat_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=430
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutCount_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=450
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutRateCalc_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=470
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)ReadoutStride_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=490
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)Rois_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=510
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStampBitDepth_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=530
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStampRes_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=550
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TimeStamps_EX"
+	}
+}
+oval {
+	object {
+		x=1149
+		y=570
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)TrackFrames_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=617
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CcdCharacteristics_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=637
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelGapHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=657
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelGapWidth_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=677
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=697
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)PixelWidth_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=717
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActBottomMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=737
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=757
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActLeftMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=777
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActRightMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=797
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActTopMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=817
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensActWidth_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=837
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskBottomMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=857
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=877
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensMaskTopMargin_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=897
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorActiveHeight2_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=917
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorMaskHeight2_EX"
+	}
+}
+oval {
+	object {
+		x=1145
+		y=937
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensorType_EX"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=69
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanBeforeExp_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=89
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanCycleCount_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=109
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanCycleHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=129
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSectionFinalHeight_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=149
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSectionFinalHeightCount_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=169
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSerialRegister_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=189
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanUntilTrigger_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=246
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DisableCoolingFan_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=266
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableWindowHtr_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=286
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempReading_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=306
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempSetpt_PR"
+	}
+}
+oval {
+	object {
+		x=1576
+		y=326
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempStatus_PR"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=69
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanBeforeExp_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=89
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanCycleCount_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=109
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanCycleHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=129
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSectionFinalHeight_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=149
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSectionFinalHeightCount_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=169
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanSerialRegister_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=189
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)CleanUntilTrigger_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=246
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)DisableCoolingFan_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=266
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)EnableWindowHtr_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=286
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempReading_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=306
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempSetpt_EX"
+	}
+}
+oval {
+	object {
+		x=1550
+		y=326
+		width=19
+		height=15
+	}
+	"basic attribute" {
+		clr=15
+	}
+	"dynamic attribute" {
+		vis="if not zero"
+		calc="A"
+		chan="$(P)$(R)SensTempStatus_EX"
+	}
+}
+text {
+	object {
+		x=337
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="E"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=366
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="R"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=748
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="E"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=776
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="R"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=1149
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="E"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=1177
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="R"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=1548
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="E"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=1576
+		y=42
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="R"
+	align="horiz. centered"
+}
+text {
+	object {
+		x=1232
+		y=411
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="E - Parameter exists for this detector"
+}
+text {
+	object {
+		x=1232
+		y=436
+		width=20
+		height=20
+	}
+	"basic attribute" {
+		clr=53
+	}
+	textix="R - Parameter relevant in this configuration"
+}
